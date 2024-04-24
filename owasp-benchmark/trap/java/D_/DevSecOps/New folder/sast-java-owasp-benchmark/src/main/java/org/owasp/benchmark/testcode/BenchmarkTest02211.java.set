@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+D_\DevSecOps\New folder\sast-java-owasp-benchmark\src\main\java\org\owasp\benchmark\testcode\BenchmarkTest02211.java.trap.gz
+classes\org\owasp\benchmark\testcode\BenchmarkTest02211.members\BenchmarkTest02211.members#0.0-1710807279878-java.trap.gz
+classes\java\security\MessageDigest.members\MessageDigest.members#66.0-1713858808357-java.trap.gz
+classes\java\io\FileWriter.members\FileWriter.members#66.0-1713858808357-java.trap.gz
+classes\java\util\Arrays.members\Arrays.members#66.0-1713858808357-java.trap.gz
+classes\java\io\OutputStreamWriter.members\OutputStreamWriter.members#66.0-1713858808357-java.trap.gz
+classes\java\security\MessageDigestSpi.members\MessageDigestSpi.members#66.0-1713858808357-java.trap.gz
+classes\java\security\DigestException.members\DigestException.members#66.0-1713858808357-java.trap.gz

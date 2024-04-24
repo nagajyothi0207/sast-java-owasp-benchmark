@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+D_\DevSecOps\New folder\sast-java-owasp-benchmark\src\main\java\org\owasp\benchmark\helpers\HibernateUtil.java.trap.gz
+classes\java\sql\DriverManager.members\DriverManager.members#66.0-1713858808357-java.trap.gz
+classes\org\owasp\benchmark\helpers\entities\Certificate.members\Certificate.members#0.0-1710807273212-java.trap.gz
+classes\org\owasp\benchmark\helpers\entities\Employee.members\Employee.members#0.0-1710807273212-java.trap.gz
+classes\org\owasp\benchmark\helpers\entities\Hobby.members\Hobby.members#0.0-1710807273212-java.trap.gz
+classes\org\owasp\benchmark\helpers\entities\User.members\User.members#0.0-1710807273212-java.trap.gz
+classes\java\sql\Driver.members\Driver.members#66.0-1713858808357-java.trap.gz
+classes\java\sql\DriverAction.members\DriverAction.members#66.0-1713858808357-java.trap.gz
+classes\java\sql\SQLPermission.members\SQLPermission.members#66.0-1713858808357-java.trap.gz
+classes\java\sql\DriverPropertyInfo.members\DriverPropertyInfo.members#66.0-1713858808357-java.trap.gz

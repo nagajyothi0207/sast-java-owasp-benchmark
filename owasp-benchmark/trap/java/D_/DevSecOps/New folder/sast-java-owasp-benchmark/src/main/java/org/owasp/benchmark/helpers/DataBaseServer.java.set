@@ -1,0 +1,42 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+D_\DevSecOps\New folder\sast-java-owasp-benchmark\src\main\java\org\owasp\benchmark\helpers\DataBaseServer.java.trap.gz
+classes\org\springframework\http\HttpStatus.members\HttpStatus.members#52.0-1700092966000-java.trap.gz
+classes\org\springframework\http\ResponseEntity.members\ResponseEntity.members#52.0-1700092966000-java.trap.gz
+classes\org\springframework\web\bind\annotation\RequestBody.members\RequestBody.members#52.0-1700092966000-java.trap.gz
+classes\org\springframework\web\bind\annotation\RequestMapping.members\RequestMapping.members#52.0-1700092966000-java.trap.gz
+classes\org\springframework\web\bind\annotation\RequestMethod.members\RequestMethod.members#52.0-1700092966000-java.trap.gz
+classes\org\springframework\web\bind\annotation\RestController.members\RestController.members#52.0-1700092966000-java.trap.gz
+classes\org\owasp\benchmark\helpers\DataBaseServer.members\DataBaseServer.members#0.0-1710807273033-java.trap.gz
+classes\org\springframework\http\HttpEntity.members\HttpEntity.members#52.0-1700092966000-java.trap.gz
+classes\org\springframework\http\HttpHeaders.members\HttpHeaders.members#52.0-1700092966000-java.trap.gz
+classes\org\springframework\util\MultiValueMap.members\MultiValueMap.members#52.0-318184200000-java.trap.gz
+classes\org\springframework\http\ResponseEntity$BodyBuilder.members\ResponseEntity$BodyBuilder.members#52.0-1700092966000-java.trap.gz
+classes\org\springframework\http\ResponseEntity$HeadersBuilder.members\ResponseEntity$HeadersBuilder.members#52.0-1700092966000-java.trap.gz
+classes\org\springframework\http\HttpStatus$Series.members\HttpStatus$Series.members#52.0-1700092966000-java.trap.gz
+classes\org\springframework\web\bind\annotation\Mapping.members\Mapping.members#52.0-1700092966000-java.trap.gz
+classes\org\springframework\core\annotation\AliasFor.members\AliasFor.members#52.0-318184200000-java.trap.gz
+classes\org\springframework\stereotype\Controller.members\Controller.members#52.0-1700092956000-java.trap.gz
+classes\org\springframework\web\bind\annotation\ResponseBody.members\ResponseBody.members#52.0-1700092966000-java.trap.gz
+classes\org\springframework\http\HttpRange.members\HttpRange.members#52.0-1700092966000-java.trap.gz
+classes\org\springframework\http\MediaType.members\MediaType.members#52.0-1700092966000-java.trap.gz
+classes\org\springframework\http\ContentDisposition.members\ContentDisposition.members#52.0-1700092966000-java.trap.gz
+classes\org\springframework\http\CacheControl.members\CacheControl.members#52.0-1700092966000-java.trap.gz
+classes\org\springframework\http\HttpMethod.members\HttpMethod.members#52.0-1700092966000-java.trap.gz
+classes\org\springframework\stereotype\Component.members\Component.members#52.0-1700092956000-java.trap.gz
+classes\org\springframework\core\io\support\ResourceRegion.members\ResourceRegion.members#52.0-318184200000-java.trap.gz
+classes\org\springframework\util\MimeType.members\MimeType.members#52.0-318184200000-java.trap.gz
+classes\org\springframework\http\ContentDisposition$Builder.members\ContentDisposition$Builder.members#52.0-1700092966000-java.trap.gz
+classes\org\springframework\stereotype\Indexed.members\Indexed.members#52.0-1700092956000-java.trap.gz
+jars\C_\Users\Ashok Kalakoti\.m2\repository\org\springframework\spring-web\5.3.31\spring-web-5.3.31.jar.trap.gz
+jars\C_\Users\Ashok Kalakoti\.m2\repository\org\springframework\spring-core\5.3.31\spring-core-5.3.31.jar.trap.gz
+jars\C_\Users\Ashok Kalakoti\.m2\repository\org\springframework\spring-context\5.3.31\spring-context-5.3.31.jar.trap.gz

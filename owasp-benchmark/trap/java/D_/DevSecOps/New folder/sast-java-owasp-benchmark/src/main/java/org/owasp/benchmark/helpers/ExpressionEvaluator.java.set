@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+D_\DevSecOps\New folder\sast-java-owasp-benchmark\src\main\java\org\owasp\benchmark\helpers\ExpressionEvaluator.java.trap.gz
+classes\javax\servlet\jsp\el\ELException.members\ELException.members#51.0-1369045562000-java.trap.gz
+classes\javax\servlet\jsp\el\Expression.members\Expression.members#51.0-1369045562000-java.trap.gz
+classes\javax\servlet\jsp\el\FunctionMapper.members\FunctionMapper.members#51.0-1369045562000-java.trap.gz
+classes\javax\servlet\jsp\el\VariableResolver.members\VariableResolver.members#51.0-1369045562000-java.trap.gz
+classes\org\owasp\benchmark\helpers\ExpressionEvaluator.members\ExpressionEvaluator.members#0.0-1710807273033-java.trap.gz
+classes\javax\servlet\jsp\el\ExpressionEvaluator.members\ExpressionEvaluator.members#51.0-1369045562000-java.trap.gz
+jars\C_\Users\Ashok Kalakoti\.m2\repository\javax\javaee-api\7.0\javaee-api-7.0.jar.trap.gz

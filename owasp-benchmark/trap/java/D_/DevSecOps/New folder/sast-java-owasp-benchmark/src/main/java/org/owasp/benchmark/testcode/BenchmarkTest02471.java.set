@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+D_\DevSecOps\New folder\sast-java-owasp-benchmark\src\main\java\org\owasp\benchmark\testcode\BenchmarkTest02471.java.trap.gz
+classes\org\owasp\benchmark\testcode\BenchmarkTest02471.members\BenchmarkTest02471.members#0.0-1710807282487-java.trap.gz
+classes\java\nio\file\Paths.members\Paths.members#66.0-1713858808357-java.trap.gz
+classes\java\nio\file\Files.members\Files.members#66.0-1713858808357-java.trap.gz
+classes\java\nio\file\StandardOpenOption.members\StandardOpenOption.members#66.0-1713858808357-java.trap.gz
+classes\java\util\function\BiPredicate.members\BiPredicate.members#66.0-1713858808357-java.trap.gz
+classes\java\nio\file\FileVisitOption.members\FileVisitOption.members#66.0-1713858808357-java.trap.gz
+classes\java\nio\file\FileVisitor.members\FileVisitor.members#66.0-1713858808357-java.trap.gz
+classes\java\nio\file\attribute\PosixFilePermission.members\PosixFilePermission.members#66.0-1713858808357-java.trap.gz
+classes\java\nio\file\FileVisitResult.members\FileVisitResult.members#66.0-1713858808357-java.trap.gz

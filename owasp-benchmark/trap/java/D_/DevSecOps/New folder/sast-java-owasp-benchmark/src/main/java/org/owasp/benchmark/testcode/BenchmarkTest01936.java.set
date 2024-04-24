@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+SOURCES
+
+INCLUDES
+
+OBJECTS
+
+INPUT_OBJECTS
+
+TRAPS
+D_\DevSecOps\New folder\sast-java-owasp-benchmark\src\main\java\org\owasp\benchmark\testcode\BenchmarkTest01936.java.trap.gz
+classes\org\owasp\benchmark\testcode\BenchmarkTest01936.members\BenchmarkTest01936.members#0.0-1710807279422-java.trap.gz
