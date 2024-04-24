@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\mapping\KeyValue.members\KeyValue.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/mapping/KeyValue.members.trap.gz
+classes/org/hibernate/mapping/Value.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/hibernate/id/factory/IdentifierGeneratorFactory.members.trap.gz
+classes/org/hibernate/dialect/Dialect.members.trap.gz
+classes/org/hibernate/mapping/RootClass.members.trap.gz
+classes/org/hibernate/id/IdentifierGenerator.members.trap.gz
+classes/org/hibernate/MappingException.members.trap.gz

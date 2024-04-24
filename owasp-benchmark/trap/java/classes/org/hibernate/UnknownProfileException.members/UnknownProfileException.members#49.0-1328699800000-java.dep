@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\UnknownProfileException.members\UnknownProfileException.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/UnknownProfileException.members.trap.gz
+classes/org/hibernate/HibernateException.members.trap.gz
+classes/java/lang/String.members.trap.gz

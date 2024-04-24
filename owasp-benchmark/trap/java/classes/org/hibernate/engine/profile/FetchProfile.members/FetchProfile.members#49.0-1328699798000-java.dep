@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\engine\profile\FetchProfile.members\FetchProfile.members#49.0-1328699798000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/engine/profile/FetchProfile.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/hibernate/engine/profile/Fetch.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/org/hibernate/engine/profile/Association.members.trap.gz
+classes/org/hibernate/engine/profile/Fetch$Style.members.trap.gz

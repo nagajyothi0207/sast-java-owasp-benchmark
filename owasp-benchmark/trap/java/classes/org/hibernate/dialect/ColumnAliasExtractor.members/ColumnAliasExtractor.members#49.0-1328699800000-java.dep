@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\dialect\ColumnAliasExtractor.members\ColumnAliasExtractor.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/dialect/ColumnAliasExtractor.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/sql/ResultSetMetaData.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/sql/SQLException.members.trap.gz

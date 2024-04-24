@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\springframework\beans\factory\parsing\ReaderEventListener.members\ReaderEventListener.members#52.0-1700092928000-java.trap.gz
+
+TRAPS
+classes/org/springframework/beans/factory/parsing/ReaderEventListener.members.trap.gz
+classes/java/util/EventListener.members.trap.gz
+classes/org/springframework/beans/factory/parsing/ImportDefinition.members.trap.gz
+classes/org/springframework/beans/factory/parsing/AliasDefinition.members.trap.gz
+classes/org/springframework/beans/factory/parsing/ComponentDefinition.members.trap.gz
+classes/org/springframework/beans/factory/parsing/DefaultsDefinition.members.trap.gz

@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\springframework\context\support\AbstractRefreshableApplicationContext.members\AbstractRefreshableApplicationContext.members#52.0-1700092956000-java.trap.gz
+
+TRAPS
+classes/org/springframework/context/support/AbstractRefreshableApplicationContext.members.trap.gz
+classes/org/springframework/context/support/AbstractApplicationContext.members.trap.gz
+classes/org/springframework/beans/factory/support/DefaultListableBeanFactory.members.trap.gz
+classes/org/springframework/beans/BeansException.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/org/springframework/beans/factory/config/ConfigurableListableBeanFactory.members.trap.gz
+classes/org/springframework/context/ApplicationContext.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz

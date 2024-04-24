@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\javax\xml\namespace\NamespaceContext.members\NamespaceContext.members#66.0-1713858808357-java.trap.gz
+
+TRAPS
+classes/javax/xml/namespace/NamespaceContext.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/Iterator.members.trap.gz

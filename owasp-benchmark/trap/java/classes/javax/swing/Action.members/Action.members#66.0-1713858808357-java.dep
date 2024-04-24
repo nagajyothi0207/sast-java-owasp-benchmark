@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\javax\swing\Action.members\Action.members#66.0-1713858808357-java.trap.gz
+
+TRAPS
+classes/javax/swing/Action.members.trap.gz
+classes/java/awt/event/ActionListener.members.trap.gz
+classes/java/beans/PropertyChangeListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz

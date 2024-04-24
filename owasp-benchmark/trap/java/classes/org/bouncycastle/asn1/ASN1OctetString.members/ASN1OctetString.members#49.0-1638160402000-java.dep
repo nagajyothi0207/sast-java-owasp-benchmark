@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\bouncycastle\asn1\ASN1OctetString.members\ASN1OctetString.members#49.0-1638160402000-java.trap.gz
+
+TRAPS
+classes/org/bouncycastle/asn1/ASN1OctetString.members.trap.gz
+classes/org/bouncycastle/asn1/ASN1Primitive.members.trap.gz
+classes/org/bouncycastle/asn1/ASN1OctetStringParser.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/io/InputStream.members.trap.gz
+classes/org/bouncycastle/asn1/ASN1TaggedObject.members.trap.gz
+classes/org/bouncycastle/asn1/ASN1UniversalType.members.trap.gz

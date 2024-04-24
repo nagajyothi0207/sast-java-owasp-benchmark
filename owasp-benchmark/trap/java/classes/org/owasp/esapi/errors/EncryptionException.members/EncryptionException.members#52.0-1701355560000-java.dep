@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\owasp\esapi\errors\EncryptionException.members\EncryptionException.members#52.0-1701355560000-java.trap.gz
+
+TRAPS
+classes/org/owasp/esapi/errors/EncryptionException.members.trap.gz
+classes/org/owasp/esapi/errors/EnterpriseSecurityException.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz

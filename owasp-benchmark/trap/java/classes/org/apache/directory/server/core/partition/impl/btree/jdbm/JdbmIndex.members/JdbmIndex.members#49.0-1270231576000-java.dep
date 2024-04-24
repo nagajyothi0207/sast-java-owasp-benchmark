@@ -1,0 +1,24 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\server\core\partition\impl\btree\jdbm\JdbmIndex.members\JdbmIndex.members#49.0-1270231576000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/server/core/partition/impl/btree/jdbm/JdbmIndex.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Long.members.trap.gz
+classes/org/apache/directory/server/xdbm/Index.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/org/apache/directory/shared/ldap/cursor/Cursor.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/apache/directory/server/xdbm/IndexCursor.members.trap.gz
+classes/org/apache/directory/server/xdbm/IndexEntry.members.trap.gz
+classes/org/apache/directory/shared/ldap/schema/AttributeType.members.trap.gz
+classes/java/io/File.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/org/apache/directory/shared/ldap/schema/SchemaManager.members.trap.gz
+classes/org/apache/directory/shared/ldap/util/SynchronizedLRUMap.members.trap.gz
+classes/jdbm/RecordManager.members.trap.gz
+classes/org/apache/directory/server/core/partition/impl/btree/jdbm/JdbmTable.members.trap.gz
+classes/org/apache/directory/server/xdbm/Table.members.trap.gz

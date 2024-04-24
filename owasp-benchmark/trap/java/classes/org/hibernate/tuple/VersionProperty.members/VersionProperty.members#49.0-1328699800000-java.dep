@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\tuple\VersionProperty.members\VersionProperty.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/tuple/VersionProperty.members.trap.gz
+classes/org/hibernate/tuple/StandardProperty.members.trap.gz
+classes/org/hibernate/engine/VersionValue.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/hibernate/type/Type.members.trap.gz
+classes/org/hibernate/engine/CascadeStyle.members.trap.gz

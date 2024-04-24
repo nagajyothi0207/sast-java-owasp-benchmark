@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\shared\ldap\exception\LdapInvalidAttributeValueException.members\LdapInvalidAttributeValueException.members#49.0-1270211876000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/shared/ldap/exception/LdapInvalidAttributeValueException.members.trap.gz
+classes/org/apache/directory/shared/ldap/exception/LdapOperationException.members.trap.gz
+classes/org/apache/directory/shared/ldap/message/ResultCodeEnum.members.trap.gz
+classes/java/lang/String.members.trap.gz

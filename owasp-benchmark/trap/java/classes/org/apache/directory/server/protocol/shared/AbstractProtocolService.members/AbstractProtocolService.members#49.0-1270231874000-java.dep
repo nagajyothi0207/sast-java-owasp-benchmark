@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\server\protocol\shared\AbstractProtocolService.members\AbstractProtocolService.members#49.0-1270231874000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/server/protocol/shared/AbstractProtocolService.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/apache/directory/server/protocol/shared/ProtocolService.members.trap.gz
+classes/org/apache/directory/server/protocol/shared/transport/Transport.members.trap.gz
+classes/org/apache/mina/transport/socket/SocketAcceptor.members.trap.gz
+classes/org/apache/mina/transport/socket/DatagramAcceptor.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/apache/directory/server/core/DirectoryService.members.trap.gz
+classes/java/util/Set.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz

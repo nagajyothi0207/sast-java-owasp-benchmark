@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\server\ldap\LdapSessionManager.members\LdapSessionManager.members#49.0-1270232164000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/server/ldap/LdapSessionManager.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/apache/mina/core/session/IoSession.members.trap.gz
+classes/org/apache/directory/server/ldap/LdapSession.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

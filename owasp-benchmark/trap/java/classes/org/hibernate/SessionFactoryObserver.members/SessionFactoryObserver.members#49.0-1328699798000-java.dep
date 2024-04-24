@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\SessionFactoryObserver.members\SessionFactoryObserver.members#49.0-1328699798000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/SessionFactoryObserver.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/hibernate/SessionFactory.members.trap.gz

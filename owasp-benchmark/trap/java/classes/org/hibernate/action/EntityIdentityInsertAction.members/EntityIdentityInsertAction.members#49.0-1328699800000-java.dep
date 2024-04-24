@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\action\EntityIdentityInsertAction.members\EntityIdentityInsertAction.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/action/EntityIdentityInsertAction.members.trap.gz
+classes/org/hibernate/action/EntityAction.members.trap.gz
+classes/org/hibernate/engine/EntityKey.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/hibernate/engine/SessionImplementor.members.trap.gz
+classes/org/hibernate/HibernateException.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/org/hibernate/persister/entity/EntityPersister.members.trap.gz

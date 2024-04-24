@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\javax\servlet\http\HttpUpgradeHandler.members\HttpUpgradeHandler.members#51.0-1369045564000-java.trap.gz
+
+TRAPS
+classes/javax/servlet/http/HttpUpgradeHandler.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/javax/servlet/http/WebConnection.members.trap.gz

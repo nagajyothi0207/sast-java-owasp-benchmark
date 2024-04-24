@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\bouncycastle\jcajce\provider\config\ProviderConfiguration.members\ProviderConfiguration.members#49.0-1638160404000-java.trap.gz
+
+TRAPS
+classes/org/bouncycastle/jcajce/provider/config/ProviderConfiguration.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/util/Set.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/security/spec/DSAParameterSpec.members.trap.gz
+classes/javax/crypto/spec/DHParameterSpec.members.trap.gz
+classes/org/bouncycastle/jce/spec/ECParameterSpec.members.trap.gz

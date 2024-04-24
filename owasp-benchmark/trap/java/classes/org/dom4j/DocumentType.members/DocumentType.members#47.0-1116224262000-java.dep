@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\dom4j\DocumentType.members\DocumentType.members#47.0-1116224262000-java.trap.gz
+
+TRAPS
+classes/org/dom4j/DocumentType.members.trap.gz
+classes/org/dom4j/Node.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/SequencedCollection.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz

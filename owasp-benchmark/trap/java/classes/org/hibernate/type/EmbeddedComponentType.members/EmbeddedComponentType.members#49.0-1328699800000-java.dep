@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\type\EmbeddedComponentType.members\EmbeddedComponentType.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/type/EmbeddedComponentType.members.trap.gz
+classes/org/hibernate/type/ComponentType.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/hibernate/engine/SessionImplementor.members.trap.gz
+classes/org/hibernate/HibernateException.members.trap.gz
+classes/java/lang/reflect/Method.members.trap.gz
+classes/org/hibernate/type/TypeFactory$TypeScope.members.trap.gz
+classes/org/hibernate/tuple/component/ComponentMetamodel.members.trap.gz

@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\owasp\esapi\Executor.members\Executor.members#52.0-1701355560000-java.trap.gz
+
+TRAPS
+classes/org/owasp/esapi/Executor.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/File.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/SequencedCollection.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/owasp/esapi/codecs/Codec.members.trap.gz
+classes/org/owasp/esapi/ExecuteResult.members.trap.gz
+classes/org/owasp/esapi/errors/ExecutorException.members.trap.gz

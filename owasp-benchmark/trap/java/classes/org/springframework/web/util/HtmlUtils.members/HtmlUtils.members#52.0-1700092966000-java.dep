@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\springframework\web\util\HtmlUtils.members\HtmlUtils.members#52.0-1700092966000-java.trap.gz
+
+TRAPS
+classes/org/springframework/web/util/HtmlUtils.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz

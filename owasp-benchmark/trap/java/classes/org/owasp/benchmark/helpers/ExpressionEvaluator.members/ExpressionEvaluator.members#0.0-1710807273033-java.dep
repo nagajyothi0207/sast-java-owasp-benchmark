@@ -1,0 +1,26 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\owasp\benchmark\helpers\ExpressionEvaluator.members\ExpressionEvaluator.members#0.0-1710807273033-java.trap.gz
+
+TRAPS
+classes/org/owasp/benchmark/helpers/ExpressionEvaluator.members.trap.gz
+classes/javax/servlet/jsp/el/ExpressionEvaluator.members.trap.gz
+classes/java/lang/SuppressWarnings.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/Class.members.trap.gz
+classes/java/lang/reflect/GenericDeclaration.members.trap.gz
+classes/java/lang/reflect/Type.members.trap.gz
+classes/java/lang/reflect/AnnotatedElement.members.trap.gz
+classes/java/lang/invoke/TypeDescriptor$OfField.members.trap.gz
+classes/java/lang/invoke/TypeDescriptor.members.trap.gz
+classes/java/lang/constant/Constable.members.trap.gz
+classes/javax/servlet/jsp/el/FunctionMapper.members.trap.gz
+classes/javax/servlet/jsp/el/Expression.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/javax/servlet/jsp/el/ELException.members.trap.gz
+classes/javax/servlet/jsp/el/VariableResolver.members.trap.gz
+classes/java/util/Map.members.trap.gz

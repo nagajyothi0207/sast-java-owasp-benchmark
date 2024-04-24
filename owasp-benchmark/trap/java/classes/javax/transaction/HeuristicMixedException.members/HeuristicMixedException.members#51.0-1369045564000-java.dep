@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\javax\transaction\HeuristicMixedException.members\HeuristicMixedException.members#51.0-1369045564000-java.trap.gz
+
+TRAPS
+classes/javax/transaction/HeuristicMixedException.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/java/lang/String.members.trap.gz

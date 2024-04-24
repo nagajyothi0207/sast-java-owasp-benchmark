@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\shared\ldap\message\internal\InternalAbandonableRequest.members\InternalAbandonableRequest.members#49.0-1270211872000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/shared/ldap/message/internal/InternalAbandonableRequest.members.trap.gz
+classes/org/apache/directory/shared/ldap/message/internal/InternalRequest.members.trap.gz
+classes/org/apache/directory/shared/ldap/message/AbandonListener.members.trap.gz

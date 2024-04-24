@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\shared\ldap\message\internal\InternalRequest.members\InternalRequest.members#49.0-1270211870000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/shared/ldap/message/internal/InternalRequest.members.trap.gz
+classes/org/apache/directory/shared/ldap/message/internal/InternalMessage.members.trap.gz

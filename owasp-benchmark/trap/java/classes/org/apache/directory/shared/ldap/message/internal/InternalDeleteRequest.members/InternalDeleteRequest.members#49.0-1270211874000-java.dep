@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\shared\ldap\message\internal\InternalDeleteRequest.members\InternalDeleteRequest.members#49.0-1270211874000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/shared/ldap/message/internal/InternalDeleteRequest.members.trap.gz
+classes/org/apache/directory/shared/ldap/message/SingleReplyRequest.members.trap.gz
+classes/org/apache/directory/shared/ldap/message/internal/InternalAbandonableRequest.members.trap.gz
+classes/org/apache/directory/shared/ldap/name/DN.members.trap.gz
+classes/org/apache/directory/shared/ldap/codec/MessageTypeEnum.members.trap.gz

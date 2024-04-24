@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\springframework\core\env\PropertySources.members\PropertySources.members#52.0-318184200000-java.trap.gz
+
+TRAPS
+classes/org/springframework/core/env/PropertySources.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/core/env/PropertySource.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/util/Spliterator.members.trap.gz
+classes/java/util/function/Consumer.members.trap.gz
+classes/java/lang/FunctionalInterface.members.trap.gz
+classes/java/util/Iterator.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/java/util/stream/Stream.members.trap.gz
+classes/java/util/stream/BaseStream.members.trap.gz
+classes/java/lang/AutoCloseable.members.trap.gz

@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\javax\swing\plaf\PopupMenuUI.members\PopupMenuUI.members#66.0-1713858808357-java.trap.gz
+
+TRAPS
+classes/javax/swing/plaf/PopupMenuUI.members.trap.gz
+classes/javax/swing/plaf/ComponentUI.members.trap.gz
+classes/javax/swing/JPopupMenu.members.trap.gz
+classes/javax/swing/Popup.members.trap.gz
+classes/java/awt/event/MouseEvent.members.trap.gz

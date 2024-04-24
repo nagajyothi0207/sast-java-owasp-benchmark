@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\server\ldap\ExtendedOperationHandler.members\ExtendedOperationHandler.members#49.0-1270232164000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/server/ldap/ExtendedOperationHandler.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/apache/directory/server/ldap/LdapServer.members.trap.gz
+classes/org/apache/directory/server/ldap/LdapSession.members.trap.gz
+classes/org/apache/directory/shared/ldap/message/internal/InternalExtendedRequest.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/java/util/Set.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/String.members.trap.gz

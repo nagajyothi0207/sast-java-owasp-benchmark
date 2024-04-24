@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\springframework\beans\factory\parsing\ParseState.members\ParseState.members#52.0-1700092928000-java.trap.gz
+
+TRAPS
+classes/org/springframework/beans/factory/parsing/ParseState.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/springframework/beans/factory/parsing/ParseState$Entry.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz

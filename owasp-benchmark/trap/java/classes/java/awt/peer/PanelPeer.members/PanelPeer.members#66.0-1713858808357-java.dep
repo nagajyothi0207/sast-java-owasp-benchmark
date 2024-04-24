@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\java\awt\peer\PanelPeer.members\PanelPeer.members#66.0-1713858808357-java.trap.gz
+
+TRAPS
+classes/java/awt/peer/PanelPeer.members.trap.gz
+classes/java/awt/peer/ContainerPeer.members.trap.gz

@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\java\awt\SecondaryLoop.members\SecondaryLoop.members#66.0-1713858808357-java.trap.gz
+
+TRAPS
+classes/java/awt/SecondaryLoop.members.trap.gz
+classes/java/lang/Object.members.trap.gz

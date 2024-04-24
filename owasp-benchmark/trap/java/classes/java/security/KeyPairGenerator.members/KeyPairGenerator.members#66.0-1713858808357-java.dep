@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\java\security\KeyPairGenerator.members\KeyPairGenerator.members#66.0-1713858808357-java.trap.gz
+
+TRAPS
+classes/java/security/KeyPairGenerator.members.trap.gz
+classes/java/security/KeyPairGeneratorSpi.members.trap.gz
+classes/java/security/KeyPair.members.trap.gz
+classes/java/security/spec/AlgorithmParameterSpec.members.trap.gz
+classes/java/security/SecureRandom.members.trap.gz
+classes/java/security/InvalidAlgorithmParameterException.members.trap.gz
+classes/java/security/Provider.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/security/NoSuchAlgorithmException.members.trap.gz
+classes/java/security/NoSuchProviderException.members.trap.gz

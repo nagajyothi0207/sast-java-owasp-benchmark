@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\criterion\Projection.members\Projection.members#49.0-1328699798000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/criterion/Projection.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/org/hibernate/Criteria.members.trap.gz
+classes/org/hibernate/criterion/CriteriaQuery.members.trap.gz
+classes/org/hibernate/type/Type.members.trap.gz
+classes/org/hibernate/HibernateException.members.trap.gz

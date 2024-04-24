@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\owasp\benchmark\helpers\ThingFactory.members\ThingFactory.members#0.0-1710807273196-java.trap.gz
+
+TRAPS
+classes/org/owasp/benchmark/helpers/ThingFactory.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/owasp/benchmark/helpers/ThingInterface.members.trap.gz

@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\shared\ldap\schema\ldif\extractor\impl\DefaultSchemaLdifExtractor.members\DefaultSchemaLdifExtractor.members#49.0-1270212312000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/shared/ldap/schema/ldif/extractor/impl/DefaultSchemaLdifExtractor.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/apache/directory/shared/ldap/schema/ldif/extractor/SchemaLdifExtractor.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/net/URL.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/io/InputStream.members.trap.gz
+classes/java/io/File.members.trap.gz

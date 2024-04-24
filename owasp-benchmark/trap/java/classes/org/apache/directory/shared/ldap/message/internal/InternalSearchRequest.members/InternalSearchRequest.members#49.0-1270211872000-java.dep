@@ -1,0 +1,22 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\shared\ldap\message\internal\InternalSearchRequest.members\InternalSearchRequest.members#49.0-1270211872000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/shared/ldap/message/internal/InternalSearchRequest.members.trap.gz
+classes/org/apache/directory/shared/ldap/message/ManyReplyRequest.members.trap.gz
+classes/org/apache/directory/shared/ldap/message/internal/InternalAbandonableRequest.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/SequencedCollection.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/apache/directory/shared/ldap/filter/ExprNode.members.trap.gz
+classes/org/apache/directory/shared/ldap/message/AliasDerefMode.members.trap.gz
+classes/org/apache/directory/shared/ldap/filter/SearchScope.members.trap.gz
+classes/org/apache/directory/shared/ldap/name/DN.members.trap.gz
+classes/org/apache/directory/shared/ldap/codec/MessageTypeEnum.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

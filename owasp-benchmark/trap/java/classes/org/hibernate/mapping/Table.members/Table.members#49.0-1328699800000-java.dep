@@ -1,0 +1,27 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\mapping\Table.members\Table.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/mapping/Table.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/hibernate/mapping/RelationalModel.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/hibernate/dialect/Dialect.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/Iterator.members.trap.gz
+classes/org/hibernate/mapping/Column.members.trap.gz
+classes/org/hibernate/mapping/KeyValue.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/SequencedCollection.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/hibernate/mapping/ForeignKey.members.trap.gz
+classes/org/hibernate/mapping/UniqueKey.members.trap.gz
+classes/org/hibernate/mapping/Index.members.trap.gz
+classes/org/hibernate/mapping/PrimaryKey.members.trap.gz
+classes/org/hibernate/engine/Mapping.members.trap.gz
+classes/org/hibernate/HibernateException.members.trap.gz
+classes/org/hibernate/tool/hbm2ddl/TableMetadata.members.trap.gz
+classes/java/util/Map.members.trap.gz

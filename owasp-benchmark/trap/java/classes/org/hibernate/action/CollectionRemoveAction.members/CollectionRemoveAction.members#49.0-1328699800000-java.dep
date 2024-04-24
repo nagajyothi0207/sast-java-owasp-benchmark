@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\action\CollectionRemoveAction.members\CollectionRemoveAction.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/action/CollectionRemoveAction.members.trap.gz
+classes/org/hibernate/action/CollectionAction.members.trap.gz
+classes/org/hibernate/HibernateException.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/hibernate/persister/collection/CollectionPersister.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/hibernate/engine/SessionImplementor.members.trap.gz
+classes/org/hibernate/cache/CacheException.members.trap.gz
+classes/org/hibernate/collection/PersistentCollection.members.trap.gz

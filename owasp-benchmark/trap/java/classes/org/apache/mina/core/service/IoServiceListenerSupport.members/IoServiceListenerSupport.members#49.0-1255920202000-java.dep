@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\mina\core\service\IoServiceListenerSupport.members\IoServiceListenerSupport.members#49.0-1255920202000-java.trap.gz
+
+TRAPS
+classes/org/apache/mina/core/service/IoServiceListenerSupport.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/apache/mina/core/session/IoSession.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/lang/Long.members.trap.gz
+classes/org/apache/mina/core/service/IoServiceListener.members.trap.gz
+classes/org/apache/mina/core/service/IoService.members.trap.gz

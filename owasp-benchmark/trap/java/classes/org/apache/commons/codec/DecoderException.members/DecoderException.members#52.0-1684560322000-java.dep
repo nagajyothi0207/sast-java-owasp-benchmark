@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\commons\codec\DecoderException.members\DecoderException.members#52.0-1684560322000-java.trap.gz
+
+TRAPS
+classes/org/apache/commons/codec/DecoderException.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/java/lang/Throwable.members.trap.gz
+classes/java/lang/String.members.trap.gz

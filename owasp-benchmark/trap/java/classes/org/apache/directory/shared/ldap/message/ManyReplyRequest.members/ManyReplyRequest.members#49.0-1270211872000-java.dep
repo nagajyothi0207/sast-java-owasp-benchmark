@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\shared\ldap\message\ManyReplyRequest.members\ManyReplyRequest.members#49.0-1270211872000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/shared/ldap/message/ManyReplyRequest.members.trap.gz
+classes/org/apache/directory/shared/ldap/message/internal/InternalResultResponseRequest.members.trap.gz
+classes/org/apache/directory/shared/ldap/codec/MessageTypeEnum.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

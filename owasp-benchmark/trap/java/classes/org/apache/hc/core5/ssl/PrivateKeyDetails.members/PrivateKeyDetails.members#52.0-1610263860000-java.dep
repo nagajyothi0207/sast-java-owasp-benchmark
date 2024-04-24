@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\hc\core5\ssl\PrivateKeyDetails.members\PrivateKeyDetails.members#52.0-1610263860000-java.trap.gz
+
+TRAPS
+classes/org/apache/hc/core5/ssl/PrivateKeyDetails.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/security/cert/X509Certificate.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\cache\Region.members\Region.members#49.0-1328699798000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/cache/Region.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/org/hibernate/cache/CacheException.members.trap.gz
+classes/java/lang/String.members.trap.gz

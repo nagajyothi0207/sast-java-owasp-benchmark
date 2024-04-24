@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\engine\EntityUniqueKey.members\EntityUniqueKey.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/engine/EntityUniqueKey.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/io/ObjectInputStream.members.trap.gz
+classes/org/hibernate/engine/SessionImplementor.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/lang/ClassNotFoundException.members.trap.gz
+classes/java/io/ObjectOutputStream.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/hibernate/engine/SessionFactoryImplementor.members.trap.gz
+classes/org/hibernate/type/Type.members.trap.gz
+classes/org/hibernate/EntityMode.members.trap.gz

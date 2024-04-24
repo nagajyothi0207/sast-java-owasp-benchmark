@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\event\SaveOrUpdateEvent.members\SaveOrUpdateEvent.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/event/SaveOrUpdateEvent.members.trap.gz
+classes/org/hibernate/event/AbstractEvent.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/hibernate/engine/EntityEntry.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/hibernate/event/EventSource.members.trap.gz

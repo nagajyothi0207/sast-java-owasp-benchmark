@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\server\core\LdapPrincipal.members\LdapPrincipal.members#49.0-1270231272000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/server/core/LdapPrincipal.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/security/Principal.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Externalizable.members.trap.gz
+classes/java/io/ObjectOutput.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/io/ObjectInput.members.trap.gz
+classes/java/lang/ClassNotFoundException.members.trap.gz
+classes/java/lang/CloneNotSupportedException.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/apache/directory/shared/ldap/constants/AuthenticationLevel.members.trap.gz
+classes/org/apache/directory/shared/ldap/name/DN.members.trap.gz

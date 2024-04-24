@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\java\awt\datatransfer\FlavorEvent.members\FlavorEvent.members#66.0-1713858808357-java.trap.gz
+
+TRAPS
+classes/java/awt/datatransfer/FlavorEvent.members.trap.gz
+classes/java/util/EventObject.members.trap.gz
+classes/java/awt/datatransfer/Clipboard.members.trap.gz

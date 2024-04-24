@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\owasp\benchmark\testcode\BenchmarkTest00735.members\BenchmarkTest00735.members#0.0-1710807275077-java.trap.gz
+
+TRAPS
+classes/org/owasp/benchmark/testcode/BenchmarkTest00735.members.trap.gz
+classes/javax/servlet/http/HttpServlet.members.trap.gz
+classes/javax/servlet/annotation/WebServlet.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/javax/servlet/annotation/WebInitParam.members.trap.gz
+classes/javax/servlet/http/HttpServletRequest.members.trap.gz
+classes/javax/servlet/http/HttpServletResponse.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/javax/servlet/ServletException.members.trap.gz
+classes/java/io/IOException.members.trap.gz

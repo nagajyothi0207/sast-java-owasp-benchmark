@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\javax\net\ssl\HandshakeCompletedListener.members\HandshakeCompletedListener.members#66.0-1713858808357-java.trap.gz
+
+TRAPS
+classes/javax/net/ssl/HandshakeCompletedListener.members.trap.gz
+classes/java/util/EventListener.members.trap.gz
+classes/javax/net/ssl/HandshakeCompletedEvent.members.trap.gz

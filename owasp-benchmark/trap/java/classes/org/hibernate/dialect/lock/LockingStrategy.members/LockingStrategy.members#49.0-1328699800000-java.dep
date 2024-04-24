@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\dialect\lock\LockingStrategy.members\LockingStrategy.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/dialect/lock/LockingStrategy.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/hibernate/engine/SessionImplementor.members.trap.gz
+classes/org/hibernate/StaleObjectStateException.members.trap.gz
+classes/org/hibernate/JDBCException.members.trap.gz

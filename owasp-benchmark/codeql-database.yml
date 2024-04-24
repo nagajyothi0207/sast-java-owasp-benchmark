@@ -1,0 +1,39 @@
+---
+sourceLocationPrefix: D:\DevSecOps\sast-java-owasp-benchmark
+baselineLinesOfCode: 191612
+unicodeNewlines: false
+columnKind: utf16
+primaryLanguage: java
+inProgress:
+  primaryLanguage: java
+  installedExtractors:
+    cpp:
+     - C:/Users/Ashok Kalakoti/Downloads/codeql-bundle-win64/codeql/cpp
+    csharp:
+     - C:/Users/Ashok Kalakoti/Downloads/codeql-bundle-win64/codeql/csharp
+    csv:
+     - C:/Users/Ashok Kalakoti/Downloads/codeql-bundle-win64/codeql/csv
+    go:
+     - C:/Users/Ashok Kalakoti/Downloads/codeql-bundle-win64/codeql/go
+    html:
+     - C:/Users/Ashok Kalakoti/Downloads/codeql-bundle-win64/codeql/html
+    java:
+     - C:/Users/Ashok Kalakoti/Downloads/codeql-bundle-win64/codeql/java
+    javascript:
+     - C:/Users/Ashok Kalakoti/Downloads/codeql-bundle-win64/codeql/javascript
+    properties:
+     - C:/Users/Ashok Kalakoti/Downloads/codeql-bundle-win64/codeql/properties
+    python:
+     - C:/Users/Ashok Kalakoti/Downloads/codeql-bundle-win64/codeql/python
+    ruby:
+     - C:/Users/Ashok Kalakoti/Downloads/codeql-bundle-win64/codeql/ruby
+    swift:
+     - C:/Users/Ashok Kalakoti/Downloads/codeql-bundle-win64/codeql/swift
+    xml:
+     - C:/Users/Ashok Kalakoti/Downloads/codeql-bundle-win64/codeql/xml
+    yaml:
+     - C:/Users/Ashok Kalakoti/Downloads/codeql-bundle-win64/codeql/yaml
+creationMetadata:
+  cliVersion: 2.17.1
+  creationTime: 2024-04-23T14:44:38.898896300Z
+finalised: false

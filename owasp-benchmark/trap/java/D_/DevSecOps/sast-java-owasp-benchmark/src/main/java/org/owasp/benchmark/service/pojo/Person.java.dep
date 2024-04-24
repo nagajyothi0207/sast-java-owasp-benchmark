@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+D_\DevSecOps\sast-java-owasp-benchmark\src\main\java\org\owasp\benchmark\service\pojo\Person.java.trap.gz
+
+TRAPS
+classes/javax/xml/bind/annotation/XmlAttribute.members.trap.gz
+classes/javax/xml/bind/annotation/XmlElement.members.trap.gz
+classes/javax/xml/bind/annotation/XmlRootElement.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/owasp/benchmark/service/pojo/Person.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Override.members.trap.gz

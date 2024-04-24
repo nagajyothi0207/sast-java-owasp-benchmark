@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\server\xdbm\Index.members\Index.members#49.0-1270231338000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/server/xdbm/Index.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/org/apache/directory/shared/ldap/cursor/Cursor.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/apache/directory/server/xdbm/IndexCursor.members.trap.gz
+classes/org/apache/directory/server/xdbm/IndexEntry.members.trap.gz
+classes/org/apache/directory/shared/ldap/schema/AttributeType.members.trap.gz
+classes/java/io/File.members.trap.gz
+classes/java/lang/String.members.trap.gz

@@ -1,0 +1,22 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\owasp\benchmark\service\pojo\Person.members\Person.members#0.0-1710807273212-java.trap.gz
+
+TRAPS
+classes/org/owasp/benchmark/service/pojo/Person.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/javax/xml/bind/annotation/XmlRootElement.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Override.members.trap.gz
+classes/javax/xml/bind/annotation/XmlElement.members.trap.gz
+classes/java/lang/Class.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/reflect/GenericDeclaration.members.trap.gz
+classes/java/lang/reflect/Type.members.trap.gz
+classes/java/lang/reflect/AnnotatedElement.members.trap.gz
+classes/java/lang/invoke/TypeDescriptor$OfField.members.trap.gz
+classes/java/lang/invoke/TypeDescriptor.members.trap.gz
+classes/java/lang/constant/Constable.members.trap.gz
+classes/javax/xml/bind/annotation/XmlElement$DEFAULT.members.trap.gz
+classes/javax/xml/bind/annotation/XmlAttribute.members.trap.gz

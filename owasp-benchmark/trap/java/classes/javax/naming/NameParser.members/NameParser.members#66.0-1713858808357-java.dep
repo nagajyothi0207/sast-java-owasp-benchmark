@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\javax\naming\NameParser.members\NameParser.members#66.0-1713858808357-java.trap.gz
+
+TRAPS
+classes/javax/naming/NameParser.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/javax/naming/Name.members.trap.gz
+classes/javax/naming/NamingException.members.trap.gz

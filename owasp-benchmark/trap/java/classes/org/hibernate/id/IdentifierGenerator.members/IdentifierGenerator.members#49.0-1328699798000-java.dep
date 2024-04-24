@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\id\IdentifierGenerator.members\IdentifierGenerator.members#49.0-1328699798000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/id/IdentifierGenerator.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/hibernate/engine/SessionImplementor.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/hibernate/HibernateException.members.trap.gz
+classes/java/lang/String.members.trap.gz

@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\tuple\EntityModeToTuplizerMapping.members\EntityModeToTuplizerMapping.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/tuple/EntityModeToTuplizerMapping.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/hibernate/EntityMode.members.trap.gz
+classes/org/hibernate/tuple/Tuplizer.members.trap.gz
+classes/java/util/Iterator.members.trap.gz
+classes/java/util/Map.members.trap.gz

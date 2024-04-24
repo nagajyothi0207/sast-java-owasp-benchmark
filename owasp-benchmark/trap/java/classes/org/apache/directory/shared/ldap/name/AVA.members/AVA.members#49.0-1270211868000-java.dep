@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\shared\ldap\name\AVA.members\AVA.members#49.0-1270211868000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/shared/ldap/name/AVA.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/lang/Comparable.members.trap.gz
+classes/java/io/Externalizable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/io/ObjectInput.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/lang/ClassNotFoundException.members.trap.gz
+classes/java/io/ObjectOutput.members.trap.gz
+classes/org/apache/directory/shared/ldap/entry/Value.members.trap.gz
+classes/org/apache/directory/shared/ldap/exception/LdapInvalidDnException.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\annotations\common\reflection\XProperty.members\XProperty.members#49.0-1268127588000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/annotations/common/reflection/XProperty.members.trap.gz
+classes/org/hibernate/annotations/common/reflection/XMember.members.trap.gz
+classes/java/lang/String.members.trap.gz

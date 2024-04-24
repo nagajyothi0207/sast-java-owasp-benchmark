@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\tuple\StandardProperty.members\StandardProperty.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/tuple/StandardProperty.members.trap.gz
+classes/org/hibernate/tuple/Property.members.trap.gz
+classes/org/hibernate/FetchMode.members.trap.gz
+classes/org/hibernate/engine/CascadeStyle.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/hibernate/type/Type.members.trap.gz

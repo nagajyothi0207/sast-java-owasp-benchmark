@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\bouncycastle\util\Encodable.members\Encodable.members#49.0-1638160402000-java.trap.gz
+
+TRAPS
+classes/org/bouncycastle/util/Encodable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/io/IOException.members.trap.gz

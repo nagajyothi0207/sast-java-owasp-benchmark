@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\jdbc\ConnectionManager.members\ConnectionManager.members#49.0-1328699798000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/jdbc/ConnectionManager.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/io/ObjectInputStream.members.trap.gz
+classes/org/hibernate/engine/SessionFactoryImplementor.members.trap.gz
+classes/org/hibernate/Interceptor.members.trap.gz
+classes/org/hibernate/ConnectionReleaseMode.members.trap.gz
+classes/org/hibernate/jdbc/JDBCContext.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/java/io/ObjectOutputStream.members.trap.gz
+classes/java/sql/Connection.members.trap.gz
+classes/java/sql/SQLException.members.trap.gz
+classes/org/hibernate/HibernateException.members.trap.gz
+classes/org/hibernate/jdbc/Batcher.members.trap.gz
+classes/org/hibernate/jdbc/ConnectionManager$Callback.members.trap.gz

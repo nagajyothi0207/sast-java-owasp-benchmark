@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\stat\SessionStatistics.members\SessionStatistics.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/stat/SessionStatistics.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/util/Set.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz

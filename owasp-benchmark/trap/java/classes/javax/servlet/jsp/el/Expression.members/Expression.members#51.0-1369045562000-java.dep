@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\javax\servlet\jsp\el\Expression.members\Expression.members#51.0-1369045562000-java.trap.gz
+
+TRAPS
+classes/javax/servlet/jsp/el/Expression.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/javax/servlet/jsp/el/VariableResolver.members.trap.gz
+classes/javax/servlet/jsp/el/ELException.members.trap.gz

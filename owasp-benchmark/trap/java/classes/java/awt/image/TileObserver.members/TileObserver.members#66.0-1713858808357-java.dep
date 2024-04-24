@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\java\awt\image\TileObserver.members\TileObserver.members#66.0-1713858808357-java.trap.gz
+
+TRAPS
+classes/java/awt/image/TileObserver.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/awt/image/WritableRenderedImage.members.trap.gz

@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\server\core\interceptor\context\ChangeOperationContext.members\ChangeOperationContext.members#49.0-1270231272000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/server/core/interceptor/context/ChangeOperationContext.members.trap.gz
+classes/org/apache/directory/server/core/interceptor/context/OperationContext.members.trap.gz
+classes/org/apache/directory/server/core/changelog/LogChange.members.trap.gz
+classes/org/apache/directory/server/core/changelog/ChangeLogEvent.members.trap.gz

@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\java\awt\MenuContainer.members\MenuContainer.members#66.0-1713858808357-java.trap.gz
+
+TRAPS
+classes/java/awt/MenuContainer.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/awt/Event.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/awt/MenuComponent.members.trap.gz
+classes/java/awt/Font.members.trap.gz

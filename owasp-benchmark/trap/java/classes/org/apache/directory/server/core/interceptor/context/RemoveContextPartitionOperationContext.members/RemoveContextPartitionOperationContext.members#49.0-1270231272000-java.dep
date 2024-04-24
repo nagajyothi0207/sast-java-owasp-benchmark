@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\server\core\interceptor\context\RemoveContextPartitionOperationContext.members\RemoveContextPartitionOperationContext.members#49.0-1270231272000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/server/core/interceptor/context/RemoveContextPartitionOperationContext.members.trap.gz
+classes/org/apache/directory/server/core/interceptor/context/AbstractOperationContext.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/apache/directory/server/core/CoreSession.members.trap.gz
+classes/org/apache/directory/shared/ldap/name/DN.members.trap.gz

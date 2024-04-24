@@ -1,0 +1,21 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\engine\NamedSQLQueryDefinition.members\NamedSQLQueryDefinition.members#49.0-1328699798000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/engine/NamedSQLQueryDefinition.members.trap.gz
+classes/org/hibernate/engine/NamedQueryDefinition.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/SequencedCollection.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/hibernate/engine/query/sql/NativeSQLQueryReturn.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/Integer.members.trap.gz
+classes/org/hibernate/FlushMode.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/org/hibernate/CacheMode.members.trap.gz

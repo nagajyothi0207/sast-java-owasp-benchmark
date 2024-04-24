@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\stat\QueryStatistics.members\QueryStatistics.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/stat/QueryStatistics.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

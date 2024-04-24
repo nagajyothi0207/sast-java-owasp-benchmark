@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\mina\core\service\IoServiceStatistics.members\IoServiceStatistics.members#49.0-1255920202000-java.trap.gz
+
+TRAPS
+classes/org/apache/mina/core/service/IoServiceStatistics.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/apache/mina/core/service/AbstractIoService.members.trap.gz

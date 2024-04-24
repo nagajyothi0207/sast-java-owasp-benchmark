@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+D_\DevSecOps\sast-java-owasp-benchmark\src\main\java\org\owasp\benchmark\helpers\ThingInterface.java.trap.gz
+
+TRAPS
+classes/org/owasp/benchmark/helpers/ThingInterface.members.trap.gz
+classes/java/lang/String.members.trap.gz

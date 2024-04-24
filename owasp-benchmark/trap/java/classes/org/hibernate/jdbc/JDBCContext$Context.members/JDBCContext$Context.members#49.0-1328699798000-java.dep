@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\jdbc\JDBCContext$Context.members\JDBCContext$Context.members#49.0-1328699798000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/jdbc/JDBCContext$Context.members.trap.gz
+classes/org/hibernate/transaction/TransactionFactory$Context.members.trap.gz
+classes/org/hibernate/jdbc/JDBCContext.members.trap.gz
+classes/org/hibernate/ConnectionReleaseMode.members.trap.gz
+classes/org/hibernate/Transaction.members.trap.gz

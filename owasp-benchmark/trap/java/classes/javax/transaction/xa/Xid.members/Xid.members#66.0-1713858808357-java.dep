@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\javax\transaction\xa\Xid.members\Xid.members#66.0-1713858808357-java.trap.gz
+
+TRAPS
+classes/javax/transaction/xa/Xid.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

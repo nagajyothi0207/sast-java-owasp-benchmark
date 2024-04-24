@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\server\core\replication\ReplicationProvider.members\ReplicationProvider.members#49.0-1270231272000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/server/core/replication/ReplicationProvider.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/apache/directory/shared/ldap/util/LdapURL.members.trap.gz
+classes/org/apache/directory/server/core/replication/ReplicationType.members.trap.gz
+classes/org/apache/directory/server/core/replication/ReplicaConnection.members.trap.gz

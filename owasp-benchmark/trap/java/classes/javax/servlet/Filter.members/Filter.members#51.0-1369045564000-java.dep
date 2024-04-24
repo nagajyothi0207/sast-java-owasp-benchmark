@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\javax\servlet\Filter.members\Filter.members#51.0-1369045564000-java.trap.gz
+
+TRAPS
+classes/javax/servlet/Filter.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/javax/servlet/ServletRequest.members.trap.gz
+classes/javax/servlet/ServletResponse.members.trap.gz
+classes/javax/servlet/FilterChain.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/javax/servlet/ServletException.members.trap.gz
+classes/javax/servlet/FilterConfig.members.trap.gz

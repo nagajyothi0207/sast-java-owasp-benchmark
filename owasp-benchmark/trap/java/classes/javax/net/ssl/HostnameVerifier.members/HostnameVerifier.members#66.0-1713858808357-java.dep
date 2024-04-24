@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\javax\net\ssl\HostnameVerifier.members\HostnameVerifier.members#66.0-1713858808357-java.trap.gz
+
+TRAPS
+classes/javax/net/ssl/HostnameVerifier.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/javax/net/ssl/SSLSession.members.trap.gz

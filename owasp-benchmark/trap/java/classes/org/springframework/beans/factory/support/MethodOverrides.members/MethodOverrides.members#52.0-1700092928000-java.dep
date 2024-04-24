@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\springframework\beans\factory\support\MethodOverrides.members\MethodOverrides.members#52.0-1700092928000-java.trap.gz
+
+TRAPS
+classes/org/springframework/beans/factory/support/MethodOverrides.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/java/lang/reflect/Method.members.trap.gz
+classes/org/springframework/beans/factory/support/MethodOverride.members.trap.gz
+classes/java/util/Set.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz

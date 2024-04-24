@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\event\AutoFlushEvent.members\AutoFlushEvent.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/event/AutoFlushEvent.members.trap.gz
+classes/org/hibernate/event/FlushEvent.members.trap.gz
+classes/java/util/Set.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/hibernate/event/EventSource.members.trap.gz

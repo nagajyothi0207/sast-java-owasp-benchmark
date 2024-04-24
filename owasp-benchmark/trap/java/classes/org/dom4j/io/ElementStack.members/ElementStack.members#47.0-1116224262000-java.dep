@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\dom4j\io\ElementStack.members\ElementStack.members#47.0-1116224262000-java.trap.gz
+
+TRAPS
+classes/org/dom4j/io/ElementStack.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/dom4j/ElementPath.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/dom4j/ElementHandler.members.trap.gz
+classes/org/dom4j/Element.members.trap.gz
+classes/org/dom4j/io/DispatchHandler.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

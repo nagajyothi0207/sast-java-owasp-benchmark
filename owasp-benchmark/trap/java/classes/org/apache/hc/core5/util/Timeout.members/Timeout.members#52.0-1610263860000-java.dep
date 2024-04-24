@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\hc\core5\util\Timeout.members\Timeout.members#52.0-1610263860000-java.trap.gz
+
+TRAPS
+classes/org/apache/hc/core5/util/Timeout.members.trap.gz
+classes/org/apache/hc/core5/util/TimeValue.members.trap.gz
+classes/org/apache/hc/core5/annotation/Contract.members.trap.gz
+classes/org/apache/hc/core5/annotation/ThreadingBehavior.members.trap.gz
+classes/java/util/concurrent/TimeUnit.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/text/ParseException.members.trap.gz
+classes/java/time/Duration.members.trap.gz

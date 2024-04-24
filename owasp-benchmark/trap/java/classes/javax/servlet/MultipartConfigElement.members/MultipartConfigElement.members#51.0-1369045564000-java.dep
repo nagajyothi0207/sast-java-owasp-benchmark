@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\javax\servlet\MultipartConfigElement.members\MultipartConfigElement.members#51.0-1369045564000-java.trap.gz
+
+TRAPS
+classes/javax/servlet/MultipartConfigElement.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/javax/servlet/annotation/MultipartConfig.members.trap.gz

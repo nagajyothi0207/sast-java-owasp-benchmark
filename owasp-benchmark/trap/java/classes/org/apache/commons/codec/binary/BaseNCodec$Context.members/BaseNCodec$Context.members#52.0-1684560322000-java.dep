@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\commons\codec\binary\BaseNCodec$Context.members\BaseNCodec$Context.members#52.0-1684560322000-java.trap.gz
+
+TRAPS
+classes/org/apache/commons/codec/binary/BaseNCodec$Context.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/apache/commons/codec/binary/BaseNCodec.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

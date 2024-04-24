@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\java\util\EventObject.members\EventObject.members#66.0-1713858808357-java.trap.gz
+
+TRAPS
+classes/java/util/EventObject.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/String.members.trap.gz

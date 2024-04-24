@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\javax\security\cert\CertificateNotYetValidException.members\CertificateNotYetValidException.members#66.0-1713858808357-java.trap.gz
+
+TRAPS
+classes/javax/security/cert/CertificateNotYetValidException.members.trap.gz
+classes/javax/security/cert/CertificateException.members.trap.gz
+classes/java/lang/Deprecated.members.trap.gz
+classes/java/lang/String.members.trap.gz

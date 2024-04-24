@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\shared\ldap\schema\SyntaxChecker.members\SyntaxChecker.members#49.0-1270211876000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/shared/ldap/schema/SyntaxChecker.members.trap.gz
+classes/org/apache/directory/shared/ldap/schema/LoadableSchemaObject.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/apache/directory/shared/ldap/exception/LdapException.members.trap.gz

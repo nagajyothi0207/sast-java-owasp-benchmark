@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\server\ldap\handlers\controls\PagedSearchContext.members\PagedSearchContext.members#49.0-1270232164000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/server/ldap/handlers/controls/PagedSearchContext.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/apache/directory/server/core/filtering/EntryFilteringCursor.members.trap.gz
+classes/org/apache/directory/shared/ldap/message/internal/InternalSearchRequest.members.trap.gz
+classes/org/apache/directory/server/ldap/LdapSession.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

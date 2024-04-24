@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\server\core\partition\impl\btree\jdbm\BTreeRedirect.members\BTreeRedirect.members#49.0-1270231576000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/server/core/partition/impl/btree/jdbm/BTreeRedirect.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/String.members.trap.gz

@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\event\PostCollectionRemoveEvent.members\PostCollectionRemoveEvent.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/event/PostCollectionRemoveEvent.members.trap.gz
+classes/org/hibernate/event/AbstractCollectionEvent.members.trap.gz
+classes/org/hibernate/persister/collection/CollectionPersister.members.trap.gz
+classes/org/hibernate/collection/PersistentCollection.members.trap.gz
+classes/org/hibernate/event/EventSource.members.trap.gz
+classes/java/lang/Object.members.trap.gz

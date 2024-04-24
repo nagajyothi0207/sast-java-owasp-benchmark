@@ -1,0 +1,13 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\javax\servlet\ServletInputStream.members\ServletInputStream.members#51.0-1369045564000-java.trap.gz
+
+TRAPS
+classes/javax/servlet/ServletInputStream.members.trap.gz
+classes/java/io/InputStream.members.trap.gz
+classes/javax/servlet/ReadListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/io/IOException.members.trap.gz

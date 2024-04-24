@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\transaction\synchronization\ExceptionMapper.members\ExceptionMapper.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/transaction/synchronization/ExceptionMapper.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/RuntimeException.members.trap.gz
+classes/javax/transaction/SystemException.members.trap.gz

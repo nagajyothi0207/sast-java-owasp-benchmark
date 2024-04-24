@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\javax\xml\parsers\ParserConfigurationException.members\ParserConfigurationException.members#66.0-1713858808357-java.trap.gz
+
+TRAPS
+classes/javax/xml/parsers/ParserConfigurationException.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/java/lang/String.members.trap.gz

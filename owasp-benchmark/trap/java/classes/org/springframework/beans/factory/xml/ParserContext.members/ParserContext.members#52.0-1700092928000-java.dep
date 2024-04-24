@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\springframework\beans\factory\xml\ParserContext.members\ParserContext.members#52.0-1700092928000-java.trap.gz
+
+TRAPS
+classes/org/springframework/beans/factory/xml/ParserContext.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/beans/factory/parsing/BeanComponentDefinition.members.trap.gz
+classes/org/springframework/beans/factory/parsing/ComponentDefinition.members.trap.gz
+classes/org/springframework/beans/factory/parsing/CompositeComponentDefinition.members.trap.gz
+classes/org/springframework/lang/Nullable.members.trap.gz
+classes/org/springframework/beans/factory/config/BeanDefinition.members.trap.gz
+classes/org/springframework/beans/factory/xml/BeanDefinitionParserDelegate.members.trap.gz
+classes/org/springframework/beans/factory/support/BeanDefinitionRegistry.members.trap.gz
+classes/org/springframework/beans/factory/xml/XmlReaderContext.members.trap.gz

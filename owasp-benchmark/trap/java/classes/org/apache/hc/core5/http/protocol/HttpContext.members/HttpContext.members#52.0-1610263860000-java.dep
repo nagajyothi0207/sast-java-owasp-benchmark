@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\hc\core5\http\protocol\HttpContext.members\HttpContext.members#52.0-1610263860000-java.trap.gz
+
+TRAPS
+classes/org/apache/hc/core5/http/protocol/HttpContext.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/apache/hc/core5/http/ProtocolVersion.members.trap.gz

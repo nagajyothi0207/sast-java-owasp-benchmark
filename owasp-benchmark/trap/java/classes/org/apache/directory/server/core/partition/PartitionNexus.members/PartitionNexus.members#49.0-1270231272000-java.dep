@@ -1,0 +1,25 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\server\core\partition\PartitionNexus.members\PartitionNexus.members#49.0-1270231272000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/server/core/partition/PartitionNexus.members.trap.gz
+classes/org/apache/directory/server/core/partition/Partition.members.trap.gz
+classes/org/apache/directory/server/core/interceptor/context/CompareOperationContext.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/Set.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/apache/directory/server/core/interceptor/context/ListSuffixOperationContext.members.trap.gz
+classes/org/apache/directory/server/core/interceptor/context/GetSuffixOperationContext.members.trap.gz
+classes/org/apache/directory/shared/ldap/name/DN.members.trap.gz
+classes/org/apache/directory/server/core/interceptor/context/GetMatchedNameOperationContext.members.trap.gz
+classes/org/apache/directory/server/core/interceptor/context/RemoveContextPartitionOperationContext.members.trap.gz
+classes/org/apache/directory/server/core/interceptor/context/AddContextPartitionOperationContext.members.trap.gz
+classes/org/apache/directory/server/core/interceptor/context/GetRootDSEOperationContext.members.trap.gz
+classes/org/apache/directory/server/core/entry/ClonedServerEntry.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

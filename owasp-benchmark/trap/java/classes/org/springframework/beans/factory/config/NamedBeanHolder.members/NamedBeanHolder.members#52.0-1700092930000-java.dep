@@ -1,0 +1,10 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\springframework\beans\factory\config\NamedBeanHolder.members\NamedBeanHolder.members#52.0-1700092930000-java.trap.gz
+
+TRAPS
+classes/org/springframework/beans/factory/config/NamedBeanHolder.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/springframework/beans/factory/NamedBean.members.trap.gz
+classes/java/lang/String.members.trap.gz

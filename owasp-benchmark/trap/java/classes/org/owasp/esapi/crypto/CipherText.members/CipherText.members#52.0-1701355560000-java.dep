@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\owasp\esapi\crypto\CipherText.members\CipherText.members#52.0-1701355560000-java.trap.gz
+
+TRAPS
+classes/org/owasp/esapi/crypto/CipherText.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/org/owasp/esapi/crypto/KeyDerivationFunction$PRF_ALGORITHMS.members.trap.gz
+classes/org/owasp/esapi/errors/EncryptionException.members.trap.gz
+classes/javax/crypto/SecretKey.members.trap.gz
+classes/org/owasp/esapi/crypto/CipherSpec.members.trap.gz

@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\server\core\event\DirectoryListener.members\DirectoryListener.members#49.0-1270231272000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/server/core/event/DirectoryListener.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/apache/directory/server/core/interceptor/context/MoveAndRenameOperationContext.members.trap.gz
+classes/org/apache/directory/server/core/interceptor/context/MoveOperationContext.members.trap.gz
+classes/org/apache/directory/server/core/interceptor/context/RenameOperationContext.members.trap.gz
+classes/org/apache/directory/server/core/interceptor/context/ModifyOperationContext.members.trap.gz
+classes/org/apache/directory/server/core/interceptor/context/DeleteOperationContext.members.trap.gz
+classes/org/apache/directory/server/core/interceptor/context/AddOperationContext.members.trap.gz

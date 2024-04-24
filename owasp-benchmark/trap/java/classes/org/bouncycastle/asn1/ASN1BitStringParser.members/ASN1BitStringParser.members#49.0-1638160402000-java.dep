@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\bouncycastle\asn1\ASN1BitStringParser.members\ASN1BitStringParser.members#49.0-1638160402000-java.trap.gz
+
+TRAPS
+classes/org/bouncycastle/asn1/ASN1BitStringParser.members.trap.gz
+classes/org/bouncycastle/asn1/ASN1Encodable.members.trap.gz
+classes/org/bouncycastle/asn1/InMemoryRepresentable.members.trap.gz
+classes/java/io/InputStream.members.trap.gz
+classes/java/io/IOException.members.trap.gz

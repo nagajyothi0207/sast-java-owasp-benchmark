@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\transaction\synchronization\CallbackCoordinator.members\CallbackCoordinator.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/transaction/synchronization/CallbackCoordinator.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/hibernate/transaction/synchronization/AfterCompletionAction.members.trap.gz
+classes/org/hibernate/transaction/synchronization/ExceptionMapper.members.trap.gz
+classes/org/hibernate/transaction/synchronization/BeforeCompletionManagedFlushChecker.members.trap.gz
+classes/org/hibernate/transaction/TransactionFactory$Context.members.trap.gz
+classes/org/hibernate/jdbc/JDBCContext.members.trap.gz
+classes/javax/transaction/Transaction.members.trap.gz
+classes/org/hibernate/Transaction.members.trap.gz

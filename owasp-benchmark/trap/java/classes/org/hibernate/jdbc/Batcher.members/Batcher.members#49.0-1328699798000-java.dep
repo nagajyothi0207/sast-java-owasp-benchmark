@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\jdbc\Batcher.members\Batcher.members#49.0-1328699798000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/jdbc/Batcher.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/sql/Connection.members.trap.gz
+classes/org/hibernate/HibernateException.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/sql/SQLException.members.trap.gz
+classes/java/sql/CallableStatement.members.trap.gz
+classes/org/hibernate/dialect/Dialect.members.trap.gz
+classes/java/sql/ResultSet.members.trap.gz
+classes/java/sql/PreparedStatement.members.trap.gz
+classes/org/hibernate/jdbc/Expectation.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/hibernate/ScrollMode.members.trap.gz

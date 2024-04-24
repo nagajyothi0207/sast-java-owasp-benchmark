@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\shared\ldap\message\internal\InternalBindRequest.members\InternalBindRequest.members#49.0-1270211872000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/shared/ldap/message/internal/InternalBindRequest.members.trap.gz
+classes/org/apache/directory/shared/ldap/message/SingleReplyRequest.members.trap.gz
+classes/org/apache/directory/shared/ldap/message/internal/InternalAbandonableRequest.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/apache/directory/shared/ldap/name/DN.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/apache/directory/shared/ldap/codec/MessageTypeEnum.members.trap.gz

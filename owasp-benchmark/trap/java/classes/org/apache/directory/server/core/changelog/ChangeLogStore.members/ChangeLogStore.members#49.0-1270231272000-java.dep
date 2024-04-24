@@ -1,0 +1,18 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\server\core\changelog\ChangeLogStore.members\ChangeLogStore.members#49.0-1270231272000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/server/core/changelog/ChangeLogStore.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/apache/directory/shared/ldap/cursor/Cursor.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/org/apache/directory/server/core/changelog/ChangeLogEvent.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/org/apache/directory/server/core/LdapPrincipal.members.trap.gz
+classes/org/apache/directory/shared/ldap/ldif/LdifEntry.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/SequencedCollection.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/org/apache/directory/server/core/DirectoryService.members.trap.gz

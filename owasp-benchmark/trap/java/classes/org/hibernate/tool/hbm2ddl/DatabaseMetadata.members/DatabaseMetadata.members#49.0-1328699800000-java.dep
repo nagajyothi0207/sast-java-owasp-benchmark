@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\tool\hbm2ddl\DatabaseMetadata.members\DatabaseMetadata.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/tool/hbm2ddl/DatabaseMetadata.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/hibernate/HibernateException.members.trap.gz
+classes/org/hibernate/tool/hbm2ddl/TableMetadata.members.trap.gz
+classes/java/sql/Connection.members.trap.gz
+classes/org/hibernate/dialect/Dialect.members.trap.gz
+classes/java/sql/SQLException.members.trap.gz

@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\java\awt\desktop\OpenURIHandler.members\OpenURIHandler.members#66.0-1713858808357-java.trap.gz
+
+TRAPS
+classes/java/awt/desktop/OpenURIHandler.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/awt/desktop/OpenURIEvent.members.trap.gz

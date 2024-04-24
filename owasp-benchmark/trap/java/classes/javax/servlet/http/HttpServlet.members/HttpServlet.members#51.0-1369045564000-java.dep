@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\javax\servlet\http\HttpServlet.members\HttpServlet.members#51.0-1369045564000-java.trap.gz
+
+TRAPS
+classes/javax/servlet/http/HttpServlet.members.trap.gz
+classes/javax/servlet/GenericServlet.members.trap.gz
+classes/javax/servlet/ServletRequest.members.trap.gz
+classes/javax/servlet/ServletResponse.members.trap.gz
+classes/javax/servlet/ServletException.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/javax/servlet/http/HttpServletRequest.members.trap.gz
+classes/javax/servlet/http/HttpServletResponse.members.trap.gz

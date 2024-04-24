@@ -1,0 +1,15 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\owasp\esapi\Encoder.members\Encoder.members#52.0-1701355560000-java.trap.gz
+
+TRAPS
+classes/org/owasp/esapi/Encoder.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/net/URI.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/org/owasp/esapi/errors/EncodingException.members.trap.gz
+classes/org/owasp/esapi/codecs/Codec.members.trap.gz

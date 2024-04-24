@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\shared\ldap\schema\registries\SchemaLoader.members\SchemaLoader.members#49.0-1270211870000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/shared/ldap/schema/registries/SchemaLoader.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/apache/directory/shared/ldap/schema/registries/Schema.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Exception.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/SequencedCollection.members.trap.gz
+classes/org/apache/directory/shared/ldap/entry/Entry.members.trap.gz
+classes/org/apache/directory/shared/ldap/schema/registries/SchemaLoaderListener.members.trap.gz

@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\shared\ldap\entry\Modification.members\Modification.members#49.0-1270211872000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/shared/ldap/entry/Modification.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Externalizable.members.trap.gz
+classes/org/apache/directory/shared/ldap/entry/EntryAttribute.members.trap.gz
+classes/org/apache/directory/shared/ldap/entry/ModificationOperation.members.trap.gz

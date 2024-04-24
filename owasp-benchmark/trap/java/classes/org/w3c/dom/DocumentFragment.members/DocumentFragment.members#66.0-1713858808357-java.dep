@@ -1,0 +1,8 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\w3c\dom\DocumentFragment.members\DocumentFragment.members#66.0-1713858808357-java.trap.gz
+
+TRAPS
+classes/org/w3c/dom/DocumentFragment.members.trap.gz
+classes/org/w3c/dom/Node.members.trap.gz

@@ -1,0 +1,11 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\jdbm\helper\Serializer.members\Serializer.members#49.0-1270231516000-java.trap.gz
+
+TRAPS
+classes/jdbm/helper/Serializer.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/IOException.members.trap.gz

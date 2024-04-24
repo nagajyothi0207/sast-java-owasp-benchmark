@@ -1,0 +1,19 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\annotations\common\reflection\XClass.members\XClass.members#49.0-1268127588000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/annotations/common/reflection/XClass.members.trap.gz
+classes/org/hibernate/annotations/common/reflection/XAnnotatedElement.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/SequencedCollection.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/hibernate/annotations/common/reflection/XMethod.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/hibernate/annotations/common/reflection/Filter.members.trap.gz
+classes/org/hibernate/annotations/common/reflection/XProperty.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz

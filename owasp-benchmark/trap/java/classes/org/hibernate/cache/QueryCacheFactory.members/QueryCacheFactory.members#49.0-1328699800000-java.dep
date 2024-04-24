@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\cache\QueryCacheFactory.members\QueryCacheFactory.members#49.0-1328699800000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/cache/QueryCacheFactory.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/hibernate/cache/UpdateTimestampsCache.members.trap.gz
+classes/org/hibernate/cfg/Settings.members.trap.gz
+classes/java/util/Properties.members.trap.gz
+classes/org/hibernate/cache/QueryCache.members.trap.gz
+classes/org/hibernate/HibernateException.members.trap.gz

@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\owasp\esapi\SecurityConfiguration$Threshold.members\SecurityConfiguration$Threshold.members#52.0-1701355560000-java.trap.gz
+
+TRAPS
+classes/org/owasp/esapi/SecurityConfiguration$Threshold.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/owasp/esapi/SecurityConfiguration.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/List.members.trap.gz
+classes/java/util/SequencedCollection.members.trap.gz
+classes/java/util/Collection.members.trap.gz
+classes/java/lang/Iterable.members.trap.gz

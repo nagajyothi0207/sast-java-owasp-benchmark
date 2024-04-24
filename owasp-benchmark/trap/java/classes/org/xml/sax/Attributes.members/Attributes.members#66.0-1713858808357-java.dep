@@ -1,0 +1,9 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\xml\sax\Attributes.members\Attributes.members#66.0-1713858808357-java.trap.gz
+
+TRAPS
+classes/org/xml/sax/Attributes.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/String.members.trap.gz

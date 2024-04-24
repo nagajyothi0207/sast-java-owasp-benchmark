@@ -1,0 +1,12 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\dom4j\QName.members\QName.members#47.0-1116224260000-java.trap.gz
+
+TRAPS
+classes/org/dom4j/QName.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/dom4j/DocumentFactory.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/dom4j/Namespace.members.trap.gz

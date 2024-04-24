@@ -1,0 +1,14 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\persister\entity\PropertyMapping.members\PropertyMapping.members#49.0-1328699802000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/persister/entity/PropertyMapping.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/hibernate/type/Type.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/hibernate/QueryException.members.trap.gz
+classes/java/lang/UnsupportedOperationException.members.trap.gz

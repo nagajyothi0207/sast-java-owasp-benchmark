@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\bouncycastle\asn1\ASN1Primitive.members\ASN1Primitive.members#49.0-1638160402000-java.trap.gz
+
+TRAPS
+classes/org/bouncycastle/asn1/ASN1Primitive.members.trap.gz
+classes/org/bouncycastle/asn1/ASN1Object.members.trap.gz
+classes/org/bouncycastle/asn1/ASN1OutputStream.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/org/bouncycastle/asn1/ASN1Encodable.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/java/io/OutputStream.members.trap.gz
+classes/java/lang/String.members.trap.gz

@@ -1,0 +1,17 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\hibernate\persister\entity\Queryable.members\Queryable.members#49.0-1328699802000-java.trap.gz
+
+TRAPS
+classes/org/hibernate/persister/entity/Queryable.members.trap.gz
+classes/org/hibernate/persister/entity/Loadable.members.trap.gz
+classes/org/hibernate/persister/entity/PropertyMapping.members.trap.gz
+classes/org/hibernate/persister/entity/Joinable.members.trap.gz
+classes/org/hibernate/persister/entity/DiscriminatorMetadata.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/hibernate/persister/entity/Queryable$Declarer.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/hibernate/sql/SelectFragment.members.trap.gz

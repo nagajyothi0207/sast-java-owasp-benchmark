@@ -1,0 +1,26 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\dom4j\io\SAXContentHandler.members\SAXContentHandler.members#47.0-1116224262000-java.trap.gz
+
+TRAPS
+classes/org/dom4j/io/SAXContentHandler.members.trap.gz
+classes/org/xml/sax/helpers/DefaultHandler.members.trap.gz
+classes/org/xml/sax/ext/LexicalHandler.members.trap.gz
+classes/org/xml/sax/ext/DeclHandler.members.trap.gz
+classes/org/xml/sax/DTDHandler.members.trap.gz
+classes/org/dom4j/io/ElementStack.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/dom4j/Element.members.trap.gz
+classes/org/xml/sax/Attributes.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/org/dom4j/Document.members.trap.gz
+classes/org/xml/sax/InputSource.members.trap.gz
+classes/org/xml/sax/EntityResolver.members.trap.gz
+classes/org/xml/sax/SAXException.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Serializable.members.trap.gz
+classes/org/xml/sax/SAXParseException.members.trap.gz
+classes/org/xml/sax/Locator.members.trap.gz
+classes/org/dom4j/DocumentFactory.members.trap.gz
+classes/org/dom4j/ElementHandler.members.trap.gz

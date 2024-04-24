@@ -1,0 +1,16 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\apache\directory\shared\ldap\schema\Normalizer.members\Normalizer.members#49.0-1270211876000-java.trap.gz
+
+TRAPS
+classes/org/apache/directory/shared/ldap/schema/Normalizer.members.trap.gz
+classes/org/apache/directory/shared/ldap/schema/LoadableSchemaObject.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/apache/directory/shared/ldap/schema/SchemaManager.members.trap.gz
+classes/org/apache/directory/shared/ldap/exception/LdapException.members.trap.gz
+classes/org/apache/directory/shared/ldap/entry/Value.members.trap.gz
+classes/java/lang/Cloneable.members.trap.gz
+classes/java/io/Externalizable.members.trap.gz
+classes/java/lang/Comparable.members.trap.gz

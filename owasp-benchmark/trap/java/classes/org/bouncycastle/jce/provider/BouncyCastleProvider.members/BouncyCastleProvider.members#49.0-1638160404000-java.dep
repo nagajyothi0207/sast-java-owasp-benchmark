@@ -1,0 +1,20 @@
+TRAP dependencies 1.2
+
+TRAP
+classes\org\bouncycastle\jce\provider\BouncyCastleProvider.members\BouncyCastleProvider.members#49.0-1638160404000-java.trap.gz
+
+TRAPS
+classes/org/bouncycastle/jce/provider/BouncyCastleProvider.members.trap.gz
+classes/java/security/Provider.members.trap.gz
+classes/org/bouncycastle/jcajce/provider/config/ConfigurableProvider.members.trap.gz
+classes/org/bouncycastle/asn1/pkcs/PrivateKeyInfo.members.trap.gz
+classes/java/security/PrivateKey.members.trap.gz
+classes/java/io/IOException.members.trap.gz
+classes/org/bouncycastle/asn1/x509/SubjectPublicKeyInfo.members.trap.gz
+classes/java/security/PublicKey.members.trap.gz
+classes/java/lang/String.members.trap.gz
+classes/java/util/Map.members.trap.gz
+classes/java/lang/Object.members.trap.gz
+classes/org/bouncycastle/asn1/ASN1ObjectIdentifier.members.trap.gz
+classes/org/bouncycastle/jcajce/provider/util/AsymmetricKeyInfoConverter.members.trap.gz
+classes/org/bouncycastle/jcajce/provider/config/ProviderConfiguration.members.trap.gz
