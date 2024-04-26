@@ -1,0 +1,8 @@
+[2024-04-26 15:30:59] [javac-output-8352] error: no source files
+[2024-04-26 15:30:59] [javac-output-8352] Note: Annotation processing is enabled because one or more processors were found
+[2024-04-26 15:30:59] [javac-output-8352]   on the class path. A future release of javac may disable annotation processing
+[2024-04-26 15:30:59] [javac-output-8352]   unless at least one processor is specified by name (-processor), or a search
+[2024-04-26 15:30:59] [javac-output-8352]   path is specified (--processor-path, --processor-module-path), or annotation
+[2024-04-26 15:30:59] [javac-output-8352]   processing is enabled explicitly (-proc:only, -proc:full).
+[2024-04-26 15:30:59] [javac-output-8352]   Use -Xlint:-options to suppress this message.
+[2024-04-26 15:30:59] [javac-output-8352]   Use -proc:none to disable annotation processing.

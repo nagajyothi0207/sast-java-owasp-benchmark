@@ -1,0 +1,12 @@
+[2024-04-26 15:43:47] [javac-extractor-21852] Starting extraction for:
+                                              sun.java.command=com.semmle.extractor.java.JavaExtractor --jdk-version 22 --javac-args @@@D:\DevSecOps\New folder\BenchmarkJava\owasp-benchmark\log\ext\javac-2.args
+                                              user.dir=D:\DevSecOps\New folder\BenchmarkJava
+[2024-04-26 15:43:47] [javac-extractor-21852] Compilation name D:/DevSecOps/New folder/BenchmarkJava/owasp-benchmark/trap/java/diagnostics/diagnostic.trap.gz
+[2024-04-26 15:43:50] [javac-extractor-21852] Annotation processor class 'lombok.launch.AnnotationProcessorHider$AnnotationProcessor' initialized.
+[2024-04-26 15:43:50] [javac-extractor-21852] Annotation processor class 'lombok.launch.AnnotationProcessorHider$ClaimingProcessor' initialized.
+[2024-04-26 15:43:50] [javac-extractor-21852] Javac init time: 2.4s
+[2024-04-26 15:43:50] [javac-extractor-21852] Javac attr time: 0.0s
+[2024-04-26 15:43:50] [javac-extractor-21852] Extractor time: 0.0s
+[2024-04-26 15:43:50] [javac-extractor-21852] Other time: 0.4s
+[2024-04-26 15:43:50] [javac-extractor-21852] Total time: 2.7s
+[2024-04-26 15:43:50] [javac-extractor-21852] [ERROR] 1 errors were reported by javac.
