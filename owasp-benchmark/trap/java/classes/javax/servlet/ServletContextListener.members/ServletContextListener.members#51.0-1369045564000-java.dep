@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\javax\servlet\ServletContextListener.members\ServletContextListener.members#51.0-1369045564000-java.trap.gz
-
-TRAPS
-classes/javax/servlet/ServletContextListener.members.trap.gz
-classes/java/util/EventListener.members.trap.gz
-classes/javax/servlet/ServletContextEvent.members.trap.gz

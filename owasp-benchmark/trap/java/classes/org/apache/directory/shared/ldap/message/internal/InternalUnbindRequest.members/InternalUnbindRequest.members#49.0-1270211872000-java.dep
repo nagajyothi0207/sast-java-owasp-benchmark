@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\org\apache\directory\shared\ldap\message\internal\InternalUnbindRequest.members\InternalUnbindRequest.members#49.0-1270211872000-java.trap.gz
-
-TRAPS
-classes/org/apache/directory/shared/ldap/message/internal/InternalUnbindRequest.members.trap.gz
-classes/org/apache/directory/shared/ldap/message/internal/InternalRequest.members.trap.gz
-classes/org/apache/directory/shared/ldap/codec/MessageTypeEnum.members.trap.gz

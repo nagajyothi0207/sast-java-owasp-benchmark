@@ -1,8 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\javax\transaction\Synchronization.members\Synchronization.members#51.0-1369045564000-java.trap.gz
-
-TRAPS
-classes/javax/transaction/Synchronization.members.trap.gz
-classes/java/lang/Object.members.trap.gz

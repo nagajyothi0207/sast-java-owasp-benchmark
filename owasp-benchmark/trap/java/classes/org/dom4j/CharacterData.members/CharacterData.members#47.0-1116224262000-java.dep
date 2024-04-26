@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\org\dom4j\CharacterData.members\CharacterData.members#47.0-1116224262000-java.trap.gz
-
-TRAPS
-classes/org/dom4j/CharacterData.members.trap.gz
-classes/org/dom4j/Node.members.trap.gz
-classes/java/lang/String.members.trap.gz

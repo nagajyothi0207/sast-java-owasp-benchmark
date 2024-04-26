@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\java\awt\peer\MenuComponentPeer.members\MenuComponentPeer.members#66.0-1713858808357-java.trap.gz
-
-TRAPS
-classes/java/awt/peer/MenuComponentPeer.members.trap.gz
-classes/java/lang/Object.members.trap.gz
-classes/java/awt/Font.members.trap.gz

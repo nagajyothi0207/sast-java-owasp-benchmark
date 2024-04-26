@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\org\hibernate\type\descriptor\java\MutabilityPlan.members\MutabilityPlan.members#49.0-1328699800000-java.trap.gz
-
-TRAPS
-classes/org/hibernate/type/descriptor/java/MutabilityPlan.members.trap.gz
-classes/java/io/Serializable.members.trap.gz
-classes/java/lang/Object.members.trap.gz

@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\org\bouncycastle\asn1\ASN1String.members\ASN1String.members#49.0-1638160402000-java.trap.gz
-
-TRAPS
-classes/org/bouncycastle/asn1/ASN1String.members.trap.gz
-classes/java/lang/Object.members.trap.gz
-classes/java/lang/String.members.trap.gz

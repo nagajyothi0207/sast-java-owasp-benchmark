@@ -254,8 +254,8 @@
 [2024-04-24 21:21:05] [build-stdout] [2024-04-24 21:21:05] [autobuild] [INFO] Total time:  30:13 min
 [2024-04-24 21:21:05] [build-stdout] [2024-04-24 21:21:05] [autobuild] [INFO] Finished at: 2024-04-24T21:21:05+08:00
 [2024-04-24 21:21:05] [build-stdout] [2024-04-24 21:21:05] [autobuild] [INFO] ------------------------------------------------------------------------
-[2024-04-24 21:21:05] [build-stdout] [2024-04-24 21:21:05] [autobuild] [ERROR] Failed to execute goal com.diffplug.spotless:spotless-maven-plugin:2.30.0:apply (spotless-apply) on project benchmark: Execution spotless-apply of goal com.diffplug.spotless:spotless-maven-plugin:2.30.0:apply failed: No such reference 'origin/master' -> [Help 1]
-[2024-04-24 21:21:05] [build-stdout] [2024-04-24 21:21:05] [autobuild] org.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal com.diffplug.spotless:spotless-maven-plugin:2.30.0:apply (spotless-apply) on project benchmark: Execution spotless-apply of goal com.diffplug.spotless:spotless-maven-plugin:2.30.0:apply failed: No such reference 'origin/master'
+[2024-04-24 21:21:05] [build-stdout] [2024-04-24 21:21:05] [autobuild] [ERROR] Failed to execute goal com.diffplug.spotless:spotless-maven-plugin:2.30.0:apply (spotless-apply) on project benchmark: Execution spotless-apply of goal com.diffplug.spotless:spotless-maven-plugin:2.30.0:apply failed: No such reference 'origin/main' -> [Help 1]
+[2024-04-24 21:21:05] [build-stdout] [2024-04-24 21:21:05] [autobuild] org.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal com.diffplug.spotless:spotless-maven-plugin:2.30.0:apply (spotless-apply) on project benchmark: Execution spotless-apply of goal com.diffplug.spotless:spotless-maven-plugin:2.30.0:apply failed: No such reference 'origin/main'
 [2024-04-24 21:21:05] [build-stdout] [2024-04-24 21:21:05] [autobuild]     at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2 (MojoExecutor.java:333)
 [2024-04-24 21:21:05] [build-stdout] [2024-04-24 21:21:05] [autobuild]     at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute (MojoExecutor.java:316)
 [2024-04-24 21:21:05] [build-stdout] [2024-04-24 21:21:05] [autobuild]     at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:212)
@@ -280,7 +280,7 @@
 [2024-04-24 21:21:05] [build-stdout] [2024-04-24 21:21:05] [autobuild]     at org.codehaus.plexus.classworlds.launcher.Launcher.launch (Launcher.java:226)
 [2024-04-24 21:21:05] [build-stdout] [2024-04-24 21:21:05] [autobuild]     at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode (Launcher.java:407)
 [2024-04-24 21:21:05] [build-stdout] [2024-04-24 21:21:05] [autobuild]     at org.codehaus.plexus.classworlds.launcher.Launcher.main (Launcher.java:348)
-[2024-04-24 21:21:05] [build-stdout] [2024-04-24 21:21:05] [autobuild] Caused by: org.apache.maven.plugin.PluginExecutionException: Execution spotless-apply of goal com.diffplug.spotless:spotless-maven-plugin:2.30.0:apply failed: No such reference 'origin/master'
+[2024-04-24 21:21:05] [build-stdout] [2024-04-24 21:21:05] [autobuild] Caused by: org.apache.maven.plugin.PluginExecutionException: Execution spotless-apply of goal com.diffplug.spotless:spotless-maven-plugin:2.30.0:apply failed: No such reference 'origin/main'
 [2024-04-24 21:21:05] [build-stdout] [2024-04-24 21:21:05] [autobuild]     at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo (DefaultBuildPluginManager.java:133)
 [2024-04-24 21:21:05] [build-stdout] [2024-04-24 21:21:05] [autobuild]     at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2 (MojoExecutor.java:328)
 [2024-04-24 21:21:05] [build-stdout] [2024-04-24 21:21:05] [autobuild]     at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute (MojoExecutor.java:316)

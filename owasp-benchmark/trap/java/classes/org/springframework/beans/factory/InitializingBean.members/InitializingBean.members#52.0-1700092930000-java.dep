@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\org\springframework\beans\factory\InitializingBean.members\InitializingBean.members#52.0-1700092930000-java.trap.gz
-
-TRAPS
-classes/org/springframework/beans/factory/InitializingBean.members.trap.gz
-classes/java/lang/Object.members.trap.gz
-classes/java/lang/Exception.members.trap.gz

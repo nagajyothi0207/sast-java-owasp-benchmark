@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\org\apache\directory\server\xdbm\IndexEntry.members\IndexEntry.members#49.0-1270231338000-java.trap.gz
-
-TRAPS
-classes/org/apache/directory/server/xdbm/IndexEntry.members.trap.gz
-classes/java/lang/Object.members.trap.gz
-classes/org/apache/directory/server/xdbm/Tuple.members.trap.gz

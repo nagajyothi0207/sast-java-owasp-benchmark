@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\org\owasp\benchmark\helpers\entities\User.members\User.members#0.0-1710807273212-java.trap.gz
-
-TRAPS
-classes/org/owasp/benchmark/helpers/entities/User.members.trap.gz
-classes/java/lang/Object.members.trap.gz
-classes/java/lang/String.members.trap.gz

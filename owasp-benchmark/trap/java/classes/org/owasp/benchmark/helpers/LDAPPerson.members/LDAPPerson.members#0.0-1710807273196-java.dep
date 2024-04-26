@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\org\owasp\benchmark\helpers\LDAPPerson.members\LDAPPerson.members#0.0-1710807273196-java.trap.gz
-
-TRAPS
-classes/org/owasp/benchmark/helpers/LDAPPerson.members.trap.gz
-classes/java/lang/Object.members.trap.gz
-classes/java/lang/String.members.trap.gz

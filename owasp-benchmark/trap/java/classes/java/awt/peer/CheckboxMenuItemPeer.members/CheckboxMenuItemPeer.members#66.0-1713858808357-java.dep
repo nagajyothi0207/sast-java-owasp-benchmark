@@ -1,8 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\java\awt\peer\CheckboxMenuItemPeer.members\CheckboxMenuItemPeer.members#66.0-1713858808357-java.trap.gz
-
-TRAPS
-classes/java/awt/peer/CheckboxMenuItemPeer.members.trap.gz
-classes/java/awt/peer/MenuItemPeer.members.trap.gz

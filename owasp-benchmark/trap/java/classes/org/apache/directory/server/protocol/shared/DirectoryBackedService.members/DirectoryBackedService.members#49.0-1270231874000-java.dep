@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\org\apache\directory\server\protocol\shared\DirectoryBackedService.members\DirectoryBackedService.members#49.0-1270231874000-java.trap.gz
-
-TRAPS
-classes/org/apache/directory/server/protocol/shared/DirectoryBackedService.members.trap.gz
-classes/org/apache/directory/server/protocol/shared/AbstractProtocolService.members.trap.gz
-classes/java/lang/String.members.trap.gz

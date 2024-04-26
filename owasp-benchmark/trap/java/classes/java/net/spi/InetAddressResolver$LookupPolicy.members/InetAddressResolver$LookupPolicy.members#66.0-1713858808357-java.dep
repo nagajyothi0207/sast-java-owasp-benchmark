@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\java\net\spi\InetAddressResolver$LookupPolicy.members\InetAddressResolver$LookupPolicy.members#66.0-1713858808357-java.trap.gz
-
-TRAPS
-classes/java/net/spi/InetAddressResolver$LookupPolicy.members.trap.gz
-classes/java/lang/Object.members.trap.gz
-classes/java/net/spi/InetAddressResolver.members.trap.gz

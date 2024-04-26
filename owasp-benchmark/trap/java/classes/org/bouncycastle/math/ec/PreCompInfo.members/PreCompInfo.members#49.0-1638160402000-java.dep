@@ -1,8 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\org\bouncycastle\math\ec\PreCompInfo.members\PreCompInfo.members#49.0-1638160402000-java.trap.gz
-
-TRAPS
-classes/org/bouncycastle/math/ec/PreCompInfo.members.trap.gz
-classes/java/lang/Object.members.trap.gz

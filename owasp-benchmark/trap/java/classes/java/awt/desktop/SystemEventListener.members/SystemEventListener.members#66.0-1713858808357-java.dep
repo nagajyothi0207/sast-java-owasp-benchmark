@@ -1,8 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\java\awt\desktop\SystemEventListener.members\SystemEventListener.members#66.0-1713858808357-java.trap.gz
-
-TRAPS
-classes/java/awt/desktop/SystemEventListener.members.trap.gz
-classes/java/util/EventListener.members.trap.gz

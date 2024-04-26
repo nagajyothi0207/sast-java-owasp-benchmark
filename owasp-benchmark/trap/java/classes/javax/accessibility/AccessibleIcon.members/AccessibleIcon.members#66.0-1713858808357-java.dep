@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\javax\accessibility\AccessibleIcon.members\AccessibleIcon.members#66.0-1713858808357-java.trap.gz
-
-TRAPS
-classes/javax/accessibility/AccessibleIcon.members.trap.gz
-classes/java/lang/Object.members.trap.gz
-classes/java/lang/String.members.trap.gz

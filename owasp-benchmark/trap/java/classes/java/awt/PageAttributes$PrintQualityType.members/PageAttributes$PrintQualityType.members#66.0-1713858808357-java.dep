@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\java\awt\PageAttributes$PrintQualityType.members\PageAttributes$PrintQualityType.members#66.0-1713858808357-java.trap.gz
-
-TRAPS
-classes/java/awt/PageAttributes$PrintQualityType.members.trap.gz
-classes/java/awt/AttributeValue.members.trap.gz
-classes/java/awt/PageAttributes.members.trap.gz

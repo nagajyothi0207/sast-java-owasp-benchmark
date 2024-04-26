@@ -1,8 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\org\hibernate\annotations\common\reflection\Filter.members\Filter.members#49.0-1268127588000-java.trap.gz
-
-TRAPS
-classes/org/hibernate/annotations/common/reflection/Filter.members.trap.gz
-classes/java/lang/Object.members.trap.gz

@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\java\awt\JobAttributes$DialogType.members\JobAttributes$DialogType.members#66.0-1713858808357-java.trap.gz
-
-TRAPS
-classes/java/awt/JobAttributes$DialogType.members.trap.gz
-classes/java/awt/AttributeValue.members.trap.gz
-classes/java/awt/JobAttributes.members.trap.gz

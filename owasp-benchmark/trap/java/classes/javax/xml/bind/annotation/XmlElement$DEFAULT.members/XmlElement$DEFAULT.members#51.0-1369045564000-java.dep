@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\javax\xml\bind\annotation\XmlElement$DEFAULT.members\XmlElement$DEFAULT.members#51.0-1369045564000-java.trap.gz
-
-TRAPS
-classes/javax/xml/bind/annotation/XmlElement$DEFAULT.members.trap.gz
-classes/java/lang/Object.members.trap.gz
-classes/javax/xml/bind/annotation/XmlElement.members.trap.gz

@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\javax\swing\event\MenuEvent.members\MenuEvent.members#66.0-1713858808357-java.trap.gz
-
-TRAPS
-classes/javax/swing/event/MenuEvent.members.trap.gz
-classes/java/util/EventObject.members.trap.gz
-classes/java/lang/Object.members.trap.gz

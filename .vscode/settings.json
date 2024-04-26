@@ -1,4 +1,5 @@
 {
     "java.compile.nullAnalysis.mode": "automatic",
-    "codeQL.createQuery.qlPackLocation": "d:\\DevSecOps\\New folder\\sast-java-owasp-benchmark"
+    "codeQL.createQuery.qlPackLocation": "d:\\DevSecOps\\New folder\\sast-java-owasp-benchmark",
+    "java.configuration.updateBuildConfiguration": "interactive"
 }

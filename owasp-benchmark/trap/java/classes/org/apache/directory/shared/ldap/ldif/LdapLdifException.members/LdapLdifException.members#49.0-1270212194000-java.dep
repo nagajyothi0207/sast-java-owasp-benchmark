@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\org\apache\directory\shared\ldap\ldif\LdapLdifException.members\LdapLdifException.members#49.0-1270212194000-java.trap.gz
-
-TRAPS
-classes/org/apache/directory/shared/ldap/ldif/LdapLdifException.members.trap.gz
-classes/org/apache/directory/shared/ldap/exception/LdapException.members.trap.gz
-classes/java/lang/String.members.trap.gz

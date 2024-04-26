@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\javax\transaction\InvalidTransactionException.members\InvalidTransactionException.members#51.0-1369045564000-java.trap.gz
-
-TRAPS
-classes/javax/transaction/InvalidTransactionException.members.trap.gz
-classes/java/rmi/RemoteException.members.trap.gz
-classes/java/lang/String.members.trap.gz

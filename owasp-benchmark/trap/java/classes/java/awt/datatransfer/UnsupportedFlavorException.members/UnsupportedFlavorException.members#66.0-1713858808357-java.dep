@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\java\awt\datatransfer\UnsupportedFlavorException.members\UnsupportedFlavorException.members#66.0-1713858808357-java.trap.gz
-
-TRAPS
-classes/java/awt/datatransfer/UnsupportedFlavorException.members.trap.gz
-classes/java/lang/Exception.members.trap.gz
-classes/java/awt/datatransfer/DataFlavor.members.trap.gz

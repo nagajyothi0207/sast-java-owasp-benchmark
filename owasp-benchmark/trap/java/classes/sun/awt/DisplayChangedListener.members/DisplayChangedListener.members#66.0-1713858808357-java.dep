@@ -1,8 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\sun\awt\DisplayChangedListener.members\DisplayChangedListener.members#66.0-1713858808357-java.trap.gz
-
-TRAPS
-classes/sun/awt/DisplayChangedListener.members.trap.gz
-classes/java/util/EventListener.members.trap.gz

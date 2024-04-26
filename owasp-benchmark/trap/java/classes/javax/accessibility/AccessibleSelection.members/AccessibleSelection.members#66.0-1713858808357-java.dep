@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\javax\accessibility\AccessibleSelection.members\AccessibleSelection.members#66.0-1713858808357-java.trap.gz
-
-TRAPS
-classes/javax/accessibility/AccessibleSelection.members.trap.gz
-classes/java/lang/Object.members.trap.gz
-classes/javax/accessibility/Accessible.members.trap.gz

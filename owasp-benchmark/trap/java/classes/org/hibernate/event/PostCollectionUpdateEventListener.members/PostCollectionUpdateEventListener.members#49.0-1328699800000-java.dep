@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\org\hibernate\event\PostCollectionUpdateEventListener.members\PostCollectionUpdateEventListener.members#49.0-1328699800000-java.trap.gz
-
-TRAPS
-classes/org/hibernate/event/PostCollectionUpdateEventListener.members.trap.gz
-classes/java/io/Serializable.members.trap.gz
-classes/org/hibernate/event/PostCollectionUpdateEvent.members.trap.gz

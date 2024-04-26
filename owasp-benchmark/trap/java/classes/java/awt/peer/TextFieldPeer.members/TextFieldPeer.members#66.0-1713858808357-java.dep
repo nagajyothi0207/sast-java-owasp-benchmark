@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\java\awt\peer\TextFieldPeer.members\TextFieldPeer.members#66.0-1713858808357-java.trap.gz
-
-TRAPS
-classes/java/awt/peer/TextFieldPeer.members.trap.gz
-classes/java/awt/peer/TextComponentPeer.members.trap.gz
-classes/java/awt/Dimension.members.trap.gz

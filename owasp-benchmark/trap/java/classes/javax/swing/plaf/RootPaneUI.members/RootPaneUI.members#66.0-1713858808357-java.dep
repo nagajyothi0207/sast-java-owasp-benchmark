@@ -1,8 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\javax\swing\plaf\RootPaneUI.members\RootPaneUI.members#66.0-1713858808357-java.trap.gz
-
-TRAPS
-classes/javax/swing/plaf/RootPaneUI.members.trap.gz
-classes/javax/swing/plaf/ComponentUI.members.trap.gz

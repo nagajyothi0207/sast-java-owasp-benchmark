@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\org\apache\directory\shared\ldap\message\MessageException.members\MessageException.members#49.0-1270211876000-java.trap.gz
-
-TRAPS
-classes/org/apache/directory/shared/ldap/message/MessageException.members.trap.gz
-classes/org/apache/directory/shared/ldap/RuntimeMultiException.members.trap.gz
-classes/java/lang/String.members.trap.gz

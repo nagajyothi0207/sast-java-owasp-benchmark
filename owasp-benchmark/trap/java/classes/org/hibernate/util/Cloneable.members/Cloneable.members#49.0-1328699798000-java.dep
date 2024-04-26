@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\org\hibernate\util\Cloneable.members\Cloneable.members#49.0-1328699798000-java.trap.gz
-
-TRAPS
-classes/org/hibernate/util/Cloneable.members.trap.gz
-classes/java/lang/Object.members.trap.gz
-classes/org/hibernate/HibernateException.members.trap.gz

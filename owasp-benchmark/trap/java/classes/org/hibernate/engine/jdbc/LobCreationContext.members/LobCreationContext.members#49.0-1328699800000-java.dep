@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\org\hibernate\engine\jdbc\LobCreationContext.members\LobCreationContext.members#49.0-1328699800000-java.trap.gz
-
-TRAPS
-classes/org/hibernate/engine/jdbc/LobCreationContext.members.trap.gz
-classes/java/lang/Object.members.trap.gz
-classes/org/hibernate/engine/jdbc/LobCreationContext$Callback.members.trap.gz

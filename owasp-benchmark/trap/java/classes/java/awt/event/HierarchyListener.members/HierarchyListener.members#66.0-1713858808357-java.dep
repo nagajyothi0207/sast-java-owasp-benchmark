@@ -1,9 +1,0 @@
-TRAP dependencies 1.2
-
-TRAP
-classes\java\awt\event\HierarchyListener.members\HierarchyListener.members#66.0-1713858808357-java.trap.gz
-
-TRAPS
-classes/java/awt/event/HierarchyListener.members.trap.gz
-classes/java/util/EventListener.members.trap.gz
-classes/java/awt/event/HierarchyEvent.members.trap.gz
